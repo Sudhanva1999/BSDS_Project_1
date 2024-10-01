@@ -1,0 +1,8 @@
+2024-09-30 21:48:33.953 - Server started on port::3000::Server protocol::TCP
+2024-09-30 21:48:33.988 - TCP Server started on port 3000
+2024-09-30 21:49:55.843 - TCP client connected from /127.0.0.1:60279
+2024-09-30 21:50:06.142 - TCP client disconnected
+2024-09-30 21:50:28.412 - TCP client connected from /127.0.0.1:60287
+2024-09-30 21:50:54.098 - Received request: put he him
+2024-09-30 21:50:54.100 - PUT operation - Key: he, Value: him
+2024-09-30 21:50:54.104 - Sent response: OK: Key he has been updated.
