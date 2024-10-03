@@ -1,0 +1,211 @@
+2024-10-01 22:23:08.082 - Server started on port::3000::Server protocol::TCP
+2024-10-01 22:23:08.099 - TCP Server started on port 3000
+2024-10-01 22:23:14.701 - TCP client connected from IP: 127.0.0.1, Port: 61087
+2024-10-01 22:23:14.705 - Client Connection Info: Remote IP: /127.0.0.1:61087, Local Port: 3000, Is Connected: true
+2024-10-01 22:23:14.708 - Received request from 127.0.0.1:61087 - PUT:USA:Washington DC
+2024-10-01 22:23:14.708 - PUT operation - Key: USA, Value: Washington DC
+2024-10-01 22:23:14.709 - Sent response to 127.0.0.1:61087 - PUT successful for key: USA
+2024-10-01 22:23:14.712 - Received request from 127.0.0.1:61087 - PUT:France:Paris
+2024-10-01 22:23:14.712 - PUT operation - Key: France, Value: Paris
+2024-10-01 22:23:14.712 - Sent response to 127.0.0.1:61087 - PUT successful for key: France
+2024-10-01 22:23:14.712 - Received request from 127.0.0.1:61087 - PUT:Germany:Berlin
+2024-10-01 22:23:14.712 - PUT operation - Key: Germany, Value: Berlin
+2024-10-01 22:23:14.712 - Sent response to 127.0.0.1:61087 - PUT successful for key: Germany
+2024-10-01 22:23:14.712 - Received request from 127.0.0.1:61087 - PUT:Japan:Tokyo
+2024-10-01 22:23:14.713 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-01 22:23:14.713 - Sent response to 127.0.0.1:61087 - PUT successful for key: Japan
+2024-10-01 22:23:14.713 - Received request from 127.0.0.1:61087 - PUT:Canada:Ottawa
+2024-10-01 22:23:14.713 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-01 22:23:14.713 - Sent response to 127.0.0.1:61087 - PUT successful for key: Canada
+2024-10-01 22:23:14.713 - Received request from 127.0.0.1:61087 - PUT:India:New Delhi
+2024-10-01 22:23:14.713 - PUT operation - Key: India, Value: New Delhi
+2024-10-01 22:23:14.713 - Sent response to 127.0.0.1:61087 - PUT successful for key: India
+2024-10-01 22:23:14.714 - Received request from 127.0.0.1:61087 - PUT:Brazil:Brasilia
+2024-10-01 22:23:14.714 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-01 22:23:14.714 - Sent response to 127.0.0.1:61087 - PUT successful for key: Brazil
+2024-10-01 22:23:14.714 - Received request from 127.0.0.1:61087 - PUT:Australia:Canberra
+2024-10-01 22:23:14.714 - PUT operation - Key: Australia, Value: Canberra
+2024-10-01 22:23:14.714 - Sent response to 127.0.0.1:61087 - PUT successful for key: Australia
+2024-10-01 22:23:14.714 - Received request from 127.0.0.1:61087 - PUT:Mexico:Mexico City
+2024-10-01 22:23:14.714 - PUT operation - Key: Mexico, Value: Mexico City
+2024-10-01 22:23:14.714 - Sent response to 127.0.0.1:61087 - PUT successful for key: Mexico
+2024-10-01 22:23:14.715 - Received request from 127.0.0.1:61087 - PUT:Russia:Moscow
+2024-10-01 22:23:14.715 - PUT operation - Key: Russia, Value: Moscow
+2024-10-01 22:23:14.715 - Sent response to 127.0.0.1:61087 - PUT successful for key: Russia
+2024-10-01 22:23:14.715 - Received request from 127.0.0.1:61087 - PUT:Tesla:Electric Car
+2024-10-01 22:23:14.715 - PUT operation - Key: Tesla, Value: Electric Car
+2024-10-01 22:23:14.715 - Sent response to 127.0.0.1:61087 - PUT successful for key: Tesla
+2024-10-01 22:23:14.715 - Received request from 127.0.0.1:61087 - PUT:Apple:Technology
+2024-10-01 22:23:14.715 - PUT operation - Key: Apple, Value: Technology
+2024-10-01 22:23:14.715 - Sent response to 127.0.0.1:61087 - PUT successful for key: Apple
+2024-10-01 22:23:14.716 - Received request from 127.0.0.1:61087 - PUT:Nike:Sportswear
+2024-10-01 22:23:14.716 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-01 22:23:14.716 - Sent response to 127.0.0.1:61087 - PUT successful for key: Nike
+2024-10-01 22:23:14.716 - Received request from 127.0.0.1:61087 - PUT:Amazon:E-commerce
+2024-10-01 22:23:14.716 - PUT operation - Key: Amazon, Value: E-commerce
+2024-10-01 22:23:14.716 - Sent response to 127.0.0.1:61087 - PUT successful for key: Amazon
+2024-10-01 22:23:14.716 - Received request from 127.0.0.1:61087 - PUT:Coca-Cola:Beverage
+2024-10-01 22:23:14.716 - PUT operation - Key: Coca-Cola, Value: Beverage
+2024-10-01 22:23:14.717 - Sent response to 127.0.0.1:61087 - PUT successful for key: Coca-Cola
+2024-10-01 22:23:14.717 - Received request from 127.0.0.1:61087 - PUT:Google:Search Engine
+2024-10-01 22:23:14.717 - PUT operation - Key: Google, Value: Search Engine
+2024-10-01 22:23:14.717 - Sent response to 127.0.0.1:61087 - PUT successful for key: Google
+2024-10-01 22:23:14.717 - Received request from 127.0.0.1:61087 - PUT:Microsoft:Software
+2024-10-01 22:23:14.717 - PUT operation - Key: Microsoft, Value: Software
+2024-10-01 22:23:14.717 - Sent response to 127.0.0.1:61087 - PUT successful for key: Microsoft
+2024-10-01 22:23:14.718 - Received request from 127.0.0.1:61087 - PUT:BMW:Automobile
+2024-10-01 22:23:14.718 - PUT operation - Key: BMW, Value: Automobile
+2024-10-01 22:23:14.718 - Sent response to 127.0.0.1:61087 - PUT successful for key: BMW
+2024-10-01 22:23:14.718 - Received request from 127.0.0.1:61087 - PUT:Starbucks:Coffee
+2024-10-01 22:23:14.718 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-01 22:23:14.718 - Sent response to 127.0.0.1:61087 - PUT successful for key: Starbucks
+2024-10-01 22:23:14.719 - Received request from 127.0.0.1:61087 - PUT:Samsung:Electronics
+2024-10-01 22:23:14.719 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-01 22:23:14.719 - Sent response to 127.0.0.1:61087 - PUT successful for key: Samsung
+2024-10-01 22:23:14.720 - Received request from 127.0.0.1:61087 - GET:USA
+2024-10-01 22:23:14.720 - GET operation - Key: USA, Value: Washington DC
+2024-10-01 22:23:14.720 - Sent response to 127.0.0.1:61087 - GET successful: Washington DC
+2024-10-01 22:23:14.720 - Received request from 127.0.0.1:61087 - GET:France
+2024-10-01 22:23:14.720 - GET operation - Key: France, Value: Paris
+2024-10-01 22:23:14.720 - Sent response to 127.0.0.1:61087 - GET successful: Paris
+2024-10-01 22:23:14.720 - Received request from 127.0.0.1:61087 - GET:Germany
+2024-10-01 22:23:14.720 - GET operation - Key: Germany, Value: Berlin
+2024-10-01 22:23:14.720 - Sent response to 127.0.0.1:61087 - GET successful: Berlin
+2024-10-01 22:23:14.721 - Received request from 127.0.0.1:61087 - GET:Japan
+2024-10-01 22:23:14.721 - GET operation - Key: Japan, Value: Tokyo
+2024-10-01 22:23:14.721 - Sent response to 127.0.0.1:61087 - GET successful: Tokyo
+2024-10-01 22:23:14.721 - Received request from 127.0.0.1:61087 - GET:Canada
+2024-10-01 22:23:14.721 - GET operation - Key: Canada, Value: Ottawa
+2024-10-01 22:23:14.721 - Sent response to 127.0.0.1:61087 - GET successful: Ottawa
+2024-10-01 22:23:14.721 - Received request from 127.0.0.1:61087 - DELETE:USA
+2024-10-01 22:23:14.722 - DELETE operation - Key: USA removed
+2024-10-01 22:23:14.722 - Sent response to 127.0.0.1:61087 - DELETE successful for key: USA
+2024-10-01 22:23:14.723 - Received request from 127.0.0.1:61087 - DELETE:France
+2024-10-01 22:23:14.723 - DELETE operation - Key: France removed
+2024-10-01 22:23:14.723 - Sent response to 127.0.0.1:61087 - DELETE successful for key: France
+2024-10-01 22:23:14.723 - Received request from 127.0.0.1:61087 - DELETE:Germany
+2024-10-01 22:23:14.723 - DELETE operation - Key: Germany removed
+2024-10-01 22:23:14.723 - Sent response to 127.0.0.1:61087 - DELETE successful for key: Germany
+2024-10-01 22:23:14.723 - Received request from 127.0.0.1:61087 - DELETE:Japan
+2024-10-01 22:23:14.724 - DELETE operation - Key: Japan removed
+2024-10-01 22:23:14.724 - Sent response to 127.0.0.1:61087 - DELETE successful for key: Japan
+2024-10-01 22:23:14.724 - Received request from 127.0.0.1:61087 - DELETE:Canada
+2024-10-01 22:23:14.724 - DELETE operation - Key: Canada removed
+2024-10-01 22:23:14.724 - Sent response to 127.0.0.1:61087 - DELETE successful for key: Canada
+2024-10-01 22:23:14.726 - TCP client disconnected from 127.0.0.1:61087
+2024-10-01 22:23:14.726 - TCP client connected from IP: 127.0.0.1, Port: 61088
+2024-10-01 22:23:14.726 - Client Connection Info: Remote IP: /127.0.0.1:61088, Local Port: 3000, Is Connected: true
+2024-10-01 22:23:37.489 - Received request from 127.0.0.1:61088 - DELETE:name
+2024-10-01 22:23:37.489 - DELETE operation - Key: name not found
+2024-10-01 22:23:37.490 - Sent response to 127.0.0.1:61088 - DELETE successful for key: name
+2024-10-01 22:23:48.052 - TCP client disconnected from 127.0.0.1:61088
+2024-10-01 22:29:47.047 - Server started on port::3000::Server protocol::TCP
+2024-10-01 22:29:47.059 - TCP Server started on port 3000
+2024-10-01 22:29:52.875 - TCP client connected from IP: 127.0.0.1, Port: 61231
+2024-10-01 22:29:52.879 - Client Connection Info: Remote IP: /127.0.0.1:61231, Local Port: 3000, Is Connected: true
+2024-10-01 22:29:52.882 - Received request from 127.0.0.1:61231 - PUT:USA:Washington DC
+2024-10-01 22:29:52.882 - PUT operation - Key: USA, Value: Washington DC
+2024-10-01 22:29:52.883 - Sent response to 127.0.0.1:61231 - PUT successful for key: USA
+2024-10-01 22:29:52.886 - Received request from 127.0.0.1:61231 - PUT:France:Paris
+2024-10-01 22:29:52.886 - PUT operation - Key: France, Value: Paris
+2024-10-01 22:29:52.886 - Sent response to 127.0.0.1:61231 - PUT successful for key: France
+2024-10-01 22:29:52.886 - Received request from 127.0.0.1:61231 - PUT:Germany:Berlin
+2024-10-01 22:29:52.886 - PUT operation - Key: Germany, Value: Berlin
+2024-10-01 22:29:52.886 - Sent response to 127.0.0.1:61231 - PUT successful for key: Germany
+2024-10-01 22:29:52.887 - Received request from 127.0.0.1:61231 - PUT:Japan:Tokyo
+2024-10-01 22:29:52.887 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-01 22:29:52.887 - Sent response to 127.0.0.1:61231 - PUT successful for key: Japan
+2024-10-01 22:29:52.887 - Received request from 127.0.0.1:61231 - PUT:Canada:Ottawa
+2024-10-01 22:29:52.887 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-01 22:29:52.887 - Sent response to 127.0.0.1:61231 - PUT successful for key: Canada
+2024-10-01 22:29:52.887 - Received request from 127.0.0.1:61231 - PUT:India:New Delhi
+2024-10-01 22:29:52.887 - PUT operation - Key: India, Value: New Delhi
+2024-10-01 22:29:52.887 - Sent response to 127.0.0.1:61231 - PUT successful for key: India
+2024-10-01 22:29:52.888 - Received request from 127.0.0.1:61231 - PUT:Brazil:Brasilia
+2024-10-01 22:29:52.888 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-01 22:29:52.888 - Sent response to 127.0.0.1:61231 - PUT successful for key: Brazil
+2024-10-01 22:29:52.888 - Received request from 127.0.0.1:61231 - PUT:Australia:Canberra
+2024-10-01 22:29:52.888 - PUT operation - Key: Australia, Value: Canberra
+2024-10-01 22:29:52.888 - Sent response to 127.0.0.1:61231 - PUT successful for key: Australia
+2024-10-01 22:29:52.888 - Received request from 127.0.0.1:61231 - PUT:Mexico:Mexico City
+2024-10-01 22:29:52.888 - PUT operation - Key: Mexico, Value: Mexico City
+2024-10-01 22:29:52.889 - Sent response to 127.0.0.1:61231 - PUT successful for key: Mexico
+2024-10-01 22:29:52.889 - Received request from 127.0.0.1:61231 - PUT:Russia:Moscow
+2024-10-01 22:29:52.889 - PUT operation - Key: Russia, Value: Moscow
+2024-10-01 22:29:52.889 - Sent response to 127.0.0.1:61231 - PUT successful for key: Russia
+2024-10-01 22:29:52.889 - Received request from 127.0.0.1:61231 - PUT:Tesla:Electric Car
+2024-10-01 22:29:52.889 - PUT operation - Key: Tesla, Value: Electric Car
+2024-10-01 22:29:52.889 - Sent response to 127.0.0.1:61231 - PUT successful for key: Tesla
+2024-10-01 22:29:52.889 - Received request from 127.0.0.1:61231 - PUT:Apple:Technology
+2024-10-01 22:29:52.889 - PUT operation - Key: Apple, Value: Technology
+2024-10-01 22:29:52.890 - Sent response to 127.0.0.1:61231 - PUT successful for key: Apple
+2024-10-01 22:29:52.890 - Received request from 127.0.0.1:61231 - PUT:Nike:Sportswear
+2024-10-01 22:29:52.890 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-01 22:29:52.890 - Sent response to 127.0.0.1:61231 - PUT successful for key: Nike
+2024-10-01 22:29:52.890 - Received request from 127.0.0.1:61231 - PUT:Amazon:E-commerce
+2024-10-01 22:29:52.890 - PUT operation - Key: Amazon, Value: E-commerce
+2024-10-01 22:29:52.891 - Sent response to 127.0.0.1:61231 - PUT successful for key: Amazon
+2024-10-01 22:29:52.891 - Received request from 127.0.0.1:61231 - PUT:Coca-Cola:Beverage
+2024-10-01 22:29:52.891 - PUT operation - Key: Coca-Cola, Value: Beverage
+2024-10-01 22:29:52.892 - Sent response to 127.0.0.1:61231 - PUT successful for key: Coca-Cola
+2024-10-01 22:29:52.892 - Received request from 127.0.0.1:61231 - PUT:Google:Search Engine
+2024-10-01 22:29:52.892 - PUT operation - Key: Google, Value: Search Engine
+2024-10-01 22:29:52.892 - Sent response to 127.0.0.1:61231 - PUT successful for key: Google
+2024-10-01 22:29:52.892 - Received request from 127.0.0.1:61231 - PUT:Microsoft:Software
+2024-10-01 22:29:52.892 - PUT operation - Key: Microsoft, Value: Software
+2024-10-01 22:29:52.892 - Sent response to 127.0.0.1:61231 - PUT successful for key: Microsoft
+2024-10-01 22:29:52.893 - Received request from 127.0.0.1:61231 - PUT:BMW:Automobile
+2024-10-01 22:29:52.893 - PUT operation - Key: BMW, Value: Automobile
+2024-10-01 22:29:52.893 - Sent response to 127.0.0.1:61231 - PUT successful for key: BMW
+2024-10-01 22:29:52.893 - Received request from 127.0.0.1:61231 - PUT:Starbucks:Coffee
+2024-10-01 22:29:52.893 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-01 22:29:52.894 - Sent response to 127.0.0.1:61231 - PUT successful for key: Starbucks
+2024-10-01 22:29:52.894 - Received request from 127.0.0.1:61231 - PUT:Samsung:Electronics
+2024-10-01 22:29:52.894 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-01 22:29:52.894 - Sent response to 127.0.0.1:61231 - PUT successful for key: Samsung
+2024-10-01 22:29:52.894 - Received request from 127.0.0.1:61231 - GET:USA
+2024-10-01 22:29:52.894 - GET operation - Key: USA, Value: Washington DC
+2024-10-01 22:29:52.894 - Sent response to 127.0.0.1:61231 - GET successful: Washington DC
+2024-10-01 22:29:52.895 - Received request from 127.0.0.1:61231 - GET:France
+2024-10-01 22:29:52.895 - GET operation - Key: France, Value: Paris
+2024-10-01 22:29:52.895 - Sent response to 127.0.0.1:61231 - GET successful: Paris
+2024-10-01 22:29:52.895 - Received request from 127.0.0.1:61231 - GET:Germany
+2024-10-01 22:29:52.895 - GET operation - Key: Germany, Value: Berlin
+2024-10-01 22:29:52.895 - Sent response to 127.0.0.1:61231 - GET successful: Berlin
+2024-10-01 22:29:52.895 - Received request from 127.0.0.1:61231 - GET:Japan
+2024-10-01 22:29:52.895 - GET operation - Key: Japan, Value: Tokyo
+2024-10-01 22:29:52.895 - Sent response to 127.0.0.1:61231 - GET successful: Tokyo
+2024-10-01 22:29:52.896 - Received request from 127.0.0.1:61231 - GET:Canada
+2024-10-01 22:29:52.896 - GET operation - Key: Canada, Value: Ottawa
+2024-10-01 22:29:52.896 - Sent response to 127.0.0.1:61231 - GET successful: Ottawa
+2024-10-01 22:29:52.896 - Received request from 127.0.0.1:61231 - DELETE:USA
+2024-10-01 22:29:52.897 - ContainsKey operation - Key: USA exists in the store.
+2024-10-01 22:29:52.897 - DELETE operation - Key: USA removed
+2024-10-01 22:29:52.897 - Sent response to 127.0.0.1:61231 - DELETE successful for key: USA
+2024-10-01 22:29:52.898 - Received request from 127.0.0.1:61231 - DELETE:France
+2024-10-01 22:29:52.898 - ContainsKey operation - Key: France exists in the store.
+2024-10-01 22:29:52.898 - DELETE operation - Key: France removed
+2024-10-01 22:29:52.898 - Sent response to 127.0.0.1:61231 - DELETE successful for key: France
+2024-10-01 22:29:52.898 - Received request from 127.0.0.1:61231 - DELETE:Germany
+2024-10-01 22:29:52.898 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-01 22:29:52.898 - DELETE operation - Key: Germany removed
+2024-10-01 22:29:52.898 - Sent response to 127.0.0.1:61231 - DELETE successful for key: Germany
+2024-10-01 22:29:52.899 - Received request from 127.0.0.1:61231 - DELETE:Japan
+2024-10-01 22:29:52.899 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-01 22:29:52.899 - DELETE operation - Key: Japan removed
+2024-10-01 22:29:52.899 - Sent response to 127.0.0.1:61231 - DELETE successful for key: Japan
+2024-10-01 22:29:52.899 - Received request from 127.0.0.1:61231 - DELETE:Canada
+2024-10-01 22:29:52.899 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-01 22:29:52.899 - DELETE operation - Key: Canada removed
+2024-10-01 22:29:52.899 - Sent response to 127.0.0.1:61231 - DELETE successful for key: Canada
+2024-10-01 22:29:52.901 - TCP client disconnected from 127.0.0.1:61231
+2024-10-01 22:29:52.901 - TCP client connected from IP: 127.0.0.1, Port: 61232
+2024-10-01 22:29:52.901 - Client Connection Info: Remote IP: /127.0.0.1:61232, Local Port: 3000, Is Connected: true
+2024-10-01 22:29:58.422 - Received request from 127.0.0.1:61232 - DELETE:anme
+2024-10-01 22:29:58.425 - ContainsKey operation - Key: anme does not exist in the store.
+2024-10-01 22:29:58.426 - ERROR: DELETE failed for key: anme - Key does not exist::PORT3000
+2024-10-01 22:29:58.427 - Sent response to 127.0.0.1:61232 - ERROR: Key does not exist
+2024-10-01 22:30:01.973 - Received request from 127.0.0.1:61232 - DELETE:name
+2024-10-01 22:30:01.973 - ContainsKey operation - Key: name does not exist in the store.
+2024-10-01 22:30:01.973 - ERROR: DELETE failed for key: name - Key does not exist::PORT3000
+2024-10-01 22:30:01.974 - Sent response to 127.0.0.1:61232 - ERROR: Key does not exist

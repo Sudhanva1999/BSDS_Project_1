@@ -1,0 +1,73 @@
+2024-10-01 22:23:14.686 - Client started on port::3000::Server protocol::TCP::Hostname::127.0.0.1
+2024-10-01 22:23:14.701 - Connected to TCP server at 127.0.0.1:3000
+2024-10-01 22:23:14.711 - TCP PUT Operation: Sent (USA, Washington DC) - Response: PUT successful for key: USA
+2024-10-01 22:23:14.712 - TCP PUT Operation: Sent (France, Paris) - Response: PUT successful for key: France
+2024-10-01 22:23:14.712 - TCP PUT Operation: Sent (Germany, Berlin) - Response: PUT successful for key: Germany
+2024-10-01 22:23:14.713 - TCP PUT Operation: Sent (Japan, Tokyo) - Response: PUT successful for key: Japan
+2024-10-01 22:23:14.713 - TCP PUT Operation: Sent (Canada, Ottawa) - Response: PUT successful for key: Canada
+2024-10-01 22:23:14.713 - TCP PUT Operation: Sent (India, New Delhi) - Response: PUT successful for key: India
+2024-10-01 22:23:14.714 - TCP PUT Operation: Sent (Brazil, Brasilia) - Response: PUT successful for key: Brazil
+2024-10-01 22:23:14.714 - TCP PUT Operation: Sent (Australia, Canberra) - Response: PUT successful for key: Australia
+2024-10-01 22:23:14.714 - TCP PUT Operation: Sent (Mexico, Mexico City) - Response: PUT successful for key: Mexico
+2024-10-01 22:23:14.715 - TCP PUT Operation: Sent (Russia, Moscow) - Response: PUT successful for key: Russia
+2024-10-01 22:23:14.715 - TCP PUT Operation: Sent (Tesla, Electric Car) - Response: PUT successful for key: Tesla
+2024-10-01 22:23:14.715 - TCP PUT Operation: Sent (Apple, Technology) - Response: PUT successful for key: Apple
+2024-10-01 22:23:14.716 - TCP PUT Operation: Sent (Nike, Sportswear) - Response: PUT successful for key: Nike
+2024-10-01 22:23:14.716 - TCP PUT Operation: Sent (Amazon, E-commerce) - Response: PUT successful for key: Amazon
+2024-10-01 22:23:14.717 - TCP PUT Operation: Sent (Coca-Cola, Beverage) - Response: PUT successful for key: Coca-Cola
+2024-10-01 22:23:14.717 - TCP PUT Operation: Sent (Google, Search Engine) - Response: PUT successful for key: Google
+2024-10-01 22:23:14.717 - TCP PUT Operation: Sent (Microsoft, Software) - Response: PUT successful for key: Microsoft
+2024-10-01 22:23:14.718 - TCP PUT Operation: Sent (BMW, Automobile) - Response: PUT successful for key: BMW
+2024-10-01 22:23:14.718 - TCP PUT Operation: Sent (Starbucks, Coffee) - Response: PUT successful for key: Starbucks
+2024-10-01 22:23:14.719 - TCP PUT Operation: Sent (Samsung, Electronics) - Response: PUT successful for key: Samsung
+2024-10-01 22:23:14.720 - TCP GET Operation: Requested USA - Response: GET successful: Washington DC
+2024-10-01 22:23:14.720 - TCP GET Operation: Requested France - Response: GET successful: Paris
+2024-10-01 22:23:14.720 - TCP GET Operation: Requested Germany - Response: GET successful: Berlin
+2024-10-01 22:23:14.721 - TCP GET Operation: Requested Japan - Response: GET successful: Tokyo
+2024-10-01 22:23:14.721 - TCP GET Operation: Requested Canada - Response: GET successful: Ottawa
+2024-10-01 22:23:14.723 - TCP DELETE Operation: Deleted USA - Response: DELETE successful for key: USA
+2024-10-01 22:23:14.723 - TCP DELETE Operation: Deleted France - Response: DELETE successful for key: France
+2024-10-01 22:23:14.723 - TCP DELETE Operation: Deleted Germany - Response: DELETE successful for key: Germany
+2024-10-01 22:23:14.724 - TCP DELETE Operation: Deleted Japan - Response: DELETE successful for key: Japan
+2024-10-01 22:23:14.724 - TCP DELETE Operation: Deleted Canada - Response: DELETE successful for key: Canada
+2024-10-01 22:23:14.725 - Connected to TCP server at 127.0.0.1:3000
+2024-10-01 22:23:37.488 - Sent request: DELETE:name
+2024-10-01 22:23:37.491 - Received response: DELETE successful for key: name
+2024-10-01 22:23:48.051 - User exited the application.
+2024-10-01 22:29:52.862 - Client started on port::3000::Server protocol::TCP::Hostname::127.0.0.1
+2024-10-01 22:29:52.875 - Connected to TCP server at 127.0.0.1:3000
+2024-10-01 22:29:52.885 - TCP PUT Operation: Sent (USA, Washington DC) - Response: PUT successful for key: USA
+2024-10-01 22:29:52.886 - TCP PUT Operation: Sent (France, Paris) - Response: PUT successful for key: France
+2024-10-01 22:29:52.886 - TCP PUT Operation: Sent (Germany, Berlin) - Response: PUT successful for key: Germany
+2024-10-01 22:29:52.887 - TCP PUT Operation: Sent (Japan, Tokyo) - Response: PUT successful for key: Japan
+2024-10-01 22:29:52.887 - TCP PUT Operation: Sent (Canada, Ottawa) - Response: PUT successful for key: Canada
+2024-10-01 22:29:52.888 - TCP PUT Operation: Sent (India, New Delhi) - Response: PUT successful for key: India
+2024-10-01 22:29:52.888 - TCP PUT Operation: Sent (Brazil, Brasilia) - Response: PUT successful for key: Brazil
+2024-10-01 22:29:52.888 - TCP PUT Operation: Sent (Australia, Canberra) - Response: PUT successful for key: Australia
+2024-10-01 22:29:52.889 - TCP PUT Operation: Sent (Mexico, Mexico City) - Response: PUT successful for key: Mexico
+2024-10-01 22:29:52.889 - TCP PUT Operation: Sent (Russia, Moscow) - Response: PUT successful for key: Russia
+2024-10-01 22:29:52.889 - TCP PUT Operation: Sent (Tesla, Electric Car) - Response: PUT successful for key: Tesla
+2024-10-01 22:29:52.890 - TCP PUT Operation: Sent (Apple, Technology) - Response: PUT successful for key: Apple
+2024-10-01 22:29:52.890 - TCP PUT Operation: Sent (Nike, Sportswear) - Response: PUT successful for key: Nike
+2024-10-01 22:29:52.891 - TCP PUT Operation: Sent (Amazon, E-commerce) - Response: PUT successful for key: Amazon
+2024-10-01 22:29:52.892 - TCP PUT Operation: Sent (Coca-Cola, Beverage) - Response: PUT successful for key: Coca-Cola
+2024-10-01 22:29:52.892 - TCP PUT Operation: Sent (Google, Search Engine) - Response: PUT successful for key: Google
+2024-10-01 22:29:52.892 - TCP PUT Operation: Sent (Microsoft, Software) - Response: PUT successful for key: Microsoft
+2024-10-01 22:29:52.893 - TCP PUT Operation: Sent (BMW, Automobile) - Response: PUT successful for key: BMW
+2024-10-01 22:29:52.894 - TCP PUT Operation: Sent (Starbucks, Coffee) - Response: PUT successful for key: Starbucks
+2024-10-01 22:29:52.894 - TCP PUT Operation: Sent (Samsung, Electronics) - Response: PUT successful for key: Samsung
+2024-10-01 22:29:52.895 - TCP GET Operation: Requested USA - Response: GET successful: Washington DC
+2024-10-01 22:29:52.895 - TCP GET Operation: Requested France - Response: GET successful: Paris
+2024-10-01 22:29:52.895 - TCP GET Operation: Requested Germany - Response: GET successful: Berlin
+2024-10-01 22:29:52.896 - TCP GET Operation: Requested Japan - Response: GET successful: Tokyo
+2024-10-01 22:29:52.896 - TCP GET Operation: Requested Canada - Response: GET successful: Ottawa
+2024-10-01 22:29:52.897 - TCP DELETE Operation: Deleted USA - Response: DELETE successful for key: USA
+2024-10-01 22:29:52.898 - TCP DELETE Operation: Deleted France - Response: DELETE successful for key: France
+2024-10-01 22:29:52.898 - TCP DELETE Operation: Deleted Germany - Response: DELETE successful for key: Germany
+2024-10-01 22:29:52.899 - TCP DELETE Operation: Deleted Japan - Response: DELETE successful for key: Japan
+2024-10-01 22:29:52.899 - TCP DELETE Operation: Deleted Canada - Response: DELETE successful for key: Canada
+2024-10-01 22:29:52.901 - Connected to TCP server at 127.0.0.1:3000
+2024-10-01 22:29:58.422 - Sent request: DELETE:anme
+2024-10-01 22:29:58.428 - Received response: ERROR: Key does not exist
+2024-10-01 22:30:01.972 - Sent request: DELETE:name
+2024-10-01 22:30:01.974 - Received response: ERROR: Key does not exist
