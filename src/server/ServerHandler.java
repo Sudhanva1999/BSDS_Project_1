@@ -1,8 +1,10 @@
 package src.server;
 
 /**
- * Abstract class ServerHandler that defines the structure for handling server requests.
- * It provides a mechanism to process incoming requests using the specified KeyStore.
+ * Abstract class ServerHandler that defines the structure for handling server
+ * requests.
+ * It provides a mechanism to process incoming requests using the specified
+ * KeyStore.
  */
 public abstract class ServerHandler {
 
@@ -27,14 +29,16 @@ public abstract class ServerHandler {
     abstract void start();
 
     /**
-     * Handles an incoming request by parsing it and performing the appropriate operation.
+     * Handles an incoming request by parsing it and performing the appropriate
+     * operation.
      *
      * @param request The incoming request string in the format "COMMAND:key:value".
-     * @return A response string indicating the result of the operation or an error message.
+     * @return A response string indicating the result of the operation or an error
+     *         message.
      */
     String handleRequest(String request) {
         String[] parts = request.split(":");
-    
+
         if (parts.length == 0) {
             SimpleLogger.logError("Received malformed request::PORT" + port + "::Length::" + request.length());
             return "ERROR: Invalid command format ::PORT" + port + "::Length::" + request.length();
@@ -78,4 +82,30 @@ public abstract class ServerHandler {
                 return "ERROR: Unknown command " + command;
         }
     }
+
+    /**
+     * Populates the KeyStore with 10 key-value pairs.
+     */
+    public void populateKeyStore() {
+        String[][] dictionary = {
+                { "apple", "A fruit that is sweet and crisp" },
+                { "book", "A collection of pages with text or illustrations" },
+                { "car", "A vehicle used for transportation" },
+                { "dog", "A domestic animal known for loyalty" },
+                { "elephant", "A large mammal with a trunk" },
+                { "forest", "A large area covered chiefly with trees and undergrowth" },
+                { "guitar", "A stringed musical instrument" },
+                { "house", "A building for human habitation" },
+                { "island", "A piece of land surrounded by water" },
+                { "jacket", "An outer garment extending to the waist or hips" }
+        };
+
+        for (String[] entry : dictionary) {
+            String key = entry[0];
+            String value = entry[1];
+            keyStore.put(key, value);
+            System.out.println("Inserted key: " + key + " with value: " + value);
+        }
+    }
+
 }

@@ -1,0 +1,448 @@
+2024-10-04 16:00:57.604 - Client started on port::3000::Server protocol::TCP::Hostname::localhost
+2024-10-04 16:00:57.629 - Connected to TCP server at localhost:3000
+2024-10-04 16:00:57.644 - TCP PUT Operation: Sent (USA, Washington DC) - Response: Error: Malformed request
+2024-10-04 16:00:57.645 - TCP PUT Operation: Sent (France, Paris) - Response: Error: Malformed request
+2024-10-04 16:00:57.646 - TCP PUT Operation: Sent (Germany, Berlin) - Response: Error: Malformed request
+2024-10-04 16:00:57.647 - TCP PUT Operation: Sent (Japan, Tokyo) - Response: Error: Malformed request
+2024-10-04 16:00:57.648 - TCP PUT Operation: Sent (Canada, Ottawa) - Response: Error: Malformed request
+2024-10-04 16:00:57.649 - TCP PUT Operation: Sent (India, New Delhi) - Response: Error: Malformed request
+2024-10-04 16:00:57.649 - TCP PUT Operation: Sent (Brazil, Brasilia) - Response: Error: Malformed request
+2024-10-04 16:00:57.650 - TCP PUT Operation: Sent (Australia, Canberra) - Response: Error: Malformed request
+2024-10-04 16:00:57.651 - TCP PUT Operation: Sent (Mexico, Mexico City) - Response: Error: Malformed request
+2024-10-04 16:00:57.651 - TCP PUT Operation: Sent (Russia, Moscow) - Response: Error: Malformed request
+2024-10-04 16:00:57.652 - TCP PUT Operation: Sent (Tesla, Electric Car) - Response: Error: Malformed request
+2024-10-04 16:00:57.652 - TCP PUT Operation: Sent (Apple, Technology) - Response: Error: Malformed request
+2024-10-04 16:00:57.653 - TCP PUT Operation: Sent (Nike, Sportswear) - Response: Error: Malformed request
+2024-10-04 16:00:57.653 - TCP PUT Operation: Sent (Amazon, E-commerce) - Response: Error: Malformed request
+2024-10-04 16:00:57.654 - TCP PUT Operation: Sent (Coca-Cola, Beverage) - Response: Error: Malformed request
+2024-10-04 16:00:57.656 - TCP PUT Operation: Sent (Google, Search Engine) - Response: Error: Malformed request
+2024-10-04 16:00:57.656 - TCP PUT Operation: Sent (Microsoft, Software) - Response: Error: Malformed request
+2024-10-04 16:00:57.657 - TCP PUT Operation: Sent (BMW, Automobile) - Response: Error: Malformed request
+2024-10-04 16:00:57.657 - TCP PUT Operation: Sent (Starbucks, Coffee) - Response: Error: Malformed request
+2024-10-04 16:00:57.658 - TCP PUT Operation: Sent (Samsung, Electronics) - Response: Error: Malformed request
+2024-10-04 16:00:57.659 - TCP GET Operation: Requested USA - Response: Error: Malformed request
+2024-10-04 16:00:57.660 - TCP GET Operation: Requested France - Response: Error: Malformed request
+2024-10-04 16:00:57.660 - TCP GET Operation: Requested Germany - Response: Error: Malformed request
+2024-10-04 16:00:57.661 - TCP GET Operation: Requested Japan - Response: Error: Malformed request
+2024-10-04 16:00:57.662 - TCP GET Operation: Requested Canada - Response: Error: Malformed request
+2024-10-04 16:00:57.665 - TCP DELETE Operation: Deleted USA - Response: Error: Malformed request
+2024-10-04 16:00:57.666 - TCP DELETE Operation: Deleted France - Response: Error: Malformed request
+2024-10-04 16:00:57.667 - TCP DELETE Operation: Deleted Germany - Response: Error: Malformed request
+2024-10-04 16:00:57.667 - TCP DELETE Operation: Deleted Japan - Response: Error: Malformed request
+2024-10-04 16:00:57.668 - TCP DELETE Operation: Deleted Canada - Response: Error: Malformed request
+2024-10-04 16:00:57.670 - Connected to TCP server at localhost:3000
+2024-10-04 16:01:11.298 - Sent request: PUT:sun:pot
+2024-10-04 16:01:11.300 - ERROR: Received unsolicited or malformed response from SERVER
+2024-10-04 16:01:11.301 - ERROR: Received malformed response from SERVER
+2024-10-04 16:03:38.521 - Sent request: PUT:sud:pot
+2024-10-04 16:03:38.522 - ERROR: Received unsolicited or malformed response from SERVER
+2024-10-04 16:03:38.523 - ERROR: Received malformed response from SERVER
+2024-10-04 16:04:17.410 - Client started on port::3000::Server protocol::TCP::Hostname::localhost
+2024-10-04 16:04:17.434 - Connected to TCP server at localhost:3000
+2024-10-04 16:04:17.449 - TCP PUT Operation: Sent (USA, Washington DC) - Response: Error: Malformed request
+2024-10-04 16:04:17.450 - TCP PUT Operation: Sent (France, Paris) - Response: Error: Malformed request
+2024-10-04 16:04:17.450 - TCP PUT Operation: Sent (Germany, Berlin) - Response: Error: Malformed request
+2024-10-04 16:04:17.451 - TCP PUT Operation: Sent (Japan, Tokyo) - Response: Error: Malformed request
+2024-10-04 16:04:17.452 - TCP PUT Operation: Sent (Canada, Ottawa) - Response: Error: Malformed request
+2024-10-04 16:04:17.452 - TCP PUT Operation: Sent (India, New Delhi) - Response: Error: Malformed request
+2024-10-04 16:04:17.453 - TCP PUT Operation: Sent (Brazil, Brasilia) - Response: Error: Malformed request
+2024-10-04 16:04:17.453 - TCP PUT Operation: Sent (Australia, Canberra) - Response: Error: Malformed request
+2024-10-04 16:04:17.454 - TCP PUT Operation: Sent (Mexico, Mexico City) - Response: Error: Malformed request
+2024-10-04 16:04:17.455 - TCP PUT Operation: Sent (Russia, Moscow) - Response: Error: Malformed request
+2024-10-04 16:04:17.455 - TCP PUT Operation: Sent (Tesla, Electric Car) - Response: Error: Malformed request
+2024-10-04 16:04:17.456 - TCP PUT Operation: Sent (Apple, Technology) - Response: Error: Malformed request
+2024-10-04 16:04:17.456 - TCP PUT Operation: Sent (Nike, Sportswear) - Response: Error: Malformed request
+2024-10-04 16:04:17.457 - TCP PUT Operation: Sent (Amazon, E-commerce) - Response: Error: Malformed request
+2024-10-04 16:04:17.458 - TCP PUT Operation: Sent (Coca-Cola, Beverage) - Response: Error: Malformed request
+2024-10-04 16:04:17.459 - TCP PUT Operation: Sent (Google, Search Engine) - Response: Error: Malformed request
+2024-10-04 16:04:17.459 - TCP PUT Operation: Sent (Microsoft, Software) - Response: Error: Malformed request
+2024-10-04 16:04:17.460 - TCP PUT Operation: Sent (BMW, Automobile) - Response: Error: Malformed request
+2024-10-04 16:04:17.461 - TCP PUT Operation: Sent (Starbucks, Coffee) - Response: Error: Malformed request
+2024-10-04 16:04:17.462 - TCP PUT Operation: Sent (Samsung, Electronics) - Response: Error: Malformed request
+2024-10-04 16:04:17.463 - TCP GET Operation: Requested USA - Response: Error: Malformed request
+2024-10-04 16:04:17.464 - TCP GET Operation: Requested France - Response: Error: Malformed request
+2024-10-04 16:04:17.464 - TCP GET Operation: Requested Germany - Response: Error: Malformed request
+2024-10-04 16:04:17.465 - TCP GET Operation: Requested Japan - Response: Error: Malformed request
+2024-10-04 16:04:17.466 - TCP GET Operation: Requested Canada - Response: Error: Malformed request
+2024-10-04 16:04:17.469 - TCP DELETE Operation: Deleted USA - Response: Error: Malformed request
+2024-10-04 16:04:17.469 - TCP DELETE Operation: Deleted France - Response: Error: Malformed request
+2024-10-04 16:04:17.470 - TCP DELETE Operation: Deleted Germany - Response: Error: Malformed request
+2024-10-04 16:04:17.471 - TCP DELETE Operation: Deleted Japan - Response: Error: Malformed request
+2024-10-04 16:04:17.471 - TCP DELETE Operation: Deleted Canada - Response: Error: Malformed request
+2024-10-04 16:04:17.474 - Connected to TCP server at localhost:3000
+2024-10-04 16:06:12.813 - Client started on port::3000::Server protocol::TCP::Hostname::localhost
+2024-10-04 16:06:12.838 - Connected to TCP server at localhost:3000
+2024-10-04 16:06:12.851 - TCP PUT Operation: Sent (USA, Washington DC) - Response: Error: Malformed request
+2024-10-04 16:06:12.852 - TCP PUT Operation: Sent (France, Paris) - Response: Error: Malformed request
+2024-10-04 16:06:12.854 - TCP PUT Operation: Sent (Germany, Berlin) - Response: Error: Malformed request
+2024-10-04 16:06:12.854 - TCP PUT Operation: Sent (Japan, Tokyo) - Response: Error: Malformed request
+2024-10-04 16:06:12.855 - TCP PUT Operation: Sent (Canada, Ottawa) - Response: Error: Malformed request
+2024-10-04 16:06:12.856 - TCP PUT Operation: Sent (India, New Delhi) - Response: Error: Malformed request
+2024-10-04 16:06:12.856 - TCP PUT Operation: Sent (Brazil, Brasilia) - Response: Error: Malformed request
+2024-10-04 16:06:12.857 - TCP PUT Operation: Sent (Australia, Canberra) - Response: Error: Malformed request
+2024-10-04 16:06:12.858 - TCP PUT Operation: Sent (Mexico, Mexico City) - Response: Error: Malformed request
+2024-10-04 16:06:12.858 - TCP PUT Operation: Sent (Russia, Moscow) - Response: Error: Malformed request
+2024-10-04 16:06:12.859 - TCP PUT Operation: Sent (Tesla, Electric Car) - Response: Error: Malformed request
+2024-10-04 16:06:12.859 - TCP PUT Operation: Sent (Apple, Technology) - Response: Error: Malformed request
+2024-10-04 16:06:12.860 - TCP PUT Operation: Sent (Nike, Sportswear) - Response: Error: Malformed request
+2024-10-04 16:06:12.861 - TCP PUT Operation: Sent (Amazon, E-commerce) - Response: Error: Malformed request
+2024-10-04 16:06:12.861 - TCP PUT Operation: Sent (Coca-Cola, Beverage) - Response: Error: Malformed request
+2024-10-04 16:06:12.862 - TCP PUT Operation: Sent (Google, Search Engine) - Response: Error: Malformed request
+2024-10-04 16:06:12.863 - TCP PUT Operation: Sent (Microsoft, Software) - Response: Error: Malformed request
+2024-10-04 16:06:12.864 - TCP PUT Operation: Sent (BMW, Automobile) - Response: Error: Malformed request
+2024-10-04 16:06:12.864 - TCP PUT Operation: Sent (Starbucks, Coffee) - Response: Error: Malformed request
+2024-10-04 16:06:12.865 - TCP PUT Operation: Sent (Samsung, Electronics) - Response: Error: Malformed request
+2024-10-04 16:06:12.866 - TCP GET Operation: Requested USA - Response: Error: Malformed request
+2024-10-04 16:06:12.868 - TCP GET Operation: Requested France - Response: Error: Malformed request
+2024-10-04 16:06:12.868 - TCP GET Operation: Requested Germany - Response: Error: Malformed request
+2024-10-04 16:06:12.869 - TCP GET Operation: Requested Japan - Response: Error: Malformed request
+2024-10-04 16:06:12.869 - TCP GET Operation: Requested Canada - Response: Error: Malformed request
+2024-10-04 16:06:12.872 - TCP DELETE Operation: Deleted USA - Response: Error: Malformed request
+2024-10-04 16:06:12.873 - TCP DELETE Operation: Deleted France - Response: Error: Malformed request
+2024-10-04 16:06:12.873 - TCP DELETE Operation: Deleted Germany - Response: Error: Malformed request
+2024-10-04 16:06:12.874 - TCP DELETE Operation: Deleted Japan - Response: Error: Malformed request
+2024-10-04 16:06:12.874 - TCP DELETE Operation: Deleted Canada - Response: Error: Malformed request
+2024-10-04 16:06:12.876 - Connected to TCP server at localhost:3000
+2024-10-04 16:07:51.511 - User exited the application.
+2024-10-04 16:07:54.381 - Client started on port::3000::Server protocol::TCP::Hostname::localhost
+2024-10-04 16:07:54.405 - Connected to TCP server at localhost:3000
+2024-10-04 16:07:54.420 - TCP PUT Operation: Sent (USA, Washington DC) - Response: PUT successful for key: USA
+2024-10-04 16:07:54.420 - TCP PUT Operation: Sent (France, Paris) - Response: PUT successful for key: France
+2024-10-04 16:07:54.421 - TCP PUT Operation: Sent (Germany, Berlin) - Response: PUT successful for key: Germany
+2024-10-04 16:07:54.421 - TCP PUT Operation: Sent (Japan, Tokyo) - Response: PUT successful for key: Japan
+2024-10-04 16:07:54.422 - TCP PUT Operation: Sent (Canada, Ottawa) - Response: PUT successful for key: Canada
+2024-10-04 16:07:54.423 - TCP PUT Operation: Sent (India, New Delhi) - Response: PUT successful for key: India
+2024-10-04 16:07:54.424 - TCP PUT Operation: Sent (Brazil, Brasilia) - Response: PUT successful for key: Brazil
+2024-10-04 16:07:54.425 - TCP PUT Operation: Sent (Australia, Canberra) - Response: PUT successful for key: Australia
+2024-10-04 16:07:54.425 - TCP PUT Operation: Sent (Mexico, Mexico City) - Response: PUT successful for key: Mexico
+2024-10-04 16:07:54.426 - TCP PUT Operation: Sent (Russia, Moscow) - Response: PUT successful for key: Russia
+2024-10-04 16:07:54.427 - TCP PUT Operation: Sent (Tesla, Electric Car) - Response: PUT successful for key: Tesla
+2024-10-04 16:07:54.427 - TCP PUT Operation: Sent (Apple, Technology) - Response: PUT successful for key: Apple
+2024-10-04 16:07:54.428 - TCP PUT Operation: Sent (Nike, Sportswear) - Response: PUT successful for key: Nike
+2024-10-04 16:07:54.429 - TCP PUT Operation: Sent (Amazon, E-commerce) - Response: PUT successful for key: Amazon
+2024-10-04 16:07:54.429 - TCP PUT Operation: Sent (Coca-Cola, Beverage) - Response: PUT successful for key: Coca-Cola
+2024-10-04 16:07:54.430 - TCP PUT Operation: Sent (Google, Search Engine) - Response: PUT successful for key: Google
+2024-10-04 16:07:54.431 - TCP PUT Operation: Sent (Microsoft, Software) - Response: PUT successful for key: Microsoft
+2024-10-04 16:07:54.431 - TCP PUT Operation: Sent (BMW, Automobile) - Response: PUT successful for key: BMW
+2024-10-04 16:07:54.432 - TCP PUT Operation: Sent (Starbucks, Coffee) - Response: PUT successful for key: Starbucks
+2024-10-04 16:07:54.432 - TCP PUT Operation: Sent (Samsung, Electronics) - Response: PUT successful for key: Samsung
+2024-10-04 16:07:54.433 - TCP GET Operation: Requested USA - Response: GET successful: Washington DC
+2024-10-04 16:07:54.434 - TCP GET Operation: Requested France - Response: GET successful: Paris
+2024-10-04 16:07:54.435 - TCP GET Operation: Requested Germany - Response: GET successful: Berlin
+2024-10-04 16:07:54.435 - TCP GET Operation: Requested Japan - Response: GET successful: Tokyo
+2024-10-04 16:07:54.436 - TCP GET Operation: Requested Canada - Response: GET successful: Ottawa
+2024-10-04 16:07:54.439 - TCP DELETE Operation: Deleted USA - Response: DELETE successful for key: USA
+2024-10-04 16:07:54.440 - TCP DELETE Operation: Deleted France - Response: DELETE successful for key: France
+2024-10-04 16:07:54.441 - TCP DELETE Operation: Deleted Germany - Response: DELETE successful for key: Germany
+2024-10-04 16:07:54.442 - TCP DELETE Operation: Deleted Japan - Response: DELETE successful for key: Japan
+2024-10-04 16:07:54.443 - TCP DELETE Operation: Deleted Canada - Response: DELETE successful for key: Canada
+2024-10-04 16:07:54.445 - Connected to TCP server at localhost:3000
+2024-10-04 16:08:08.840 - Sent request: PUT:my:hat
+2024-10-04 16:08:08.842 - Received response: PUT successful for key: my
+2024-10-04 16:08:11.962 - Sent request: GET:my
+2024-10-04 16:08:11.964 - Received response: GET successful: hat
+2024-10-04 16:08:17.169 - Sent request: DELETE:my
+2024-10-04 16:08:17.170 - Received response: DELETE successful for key: my
+2024-10-04 16:08:28.272 - Sent request: DELETE:my
+2024-10-04 16:08:28.276 - Received response: ERROR: Key does not exist
+2024-10-04 16:08:34.154 - Sent request: DELETE:car
+2024-10-04 16:08:34.156 - Received response: ERROR: Key does not exist
+2024-10-04 16:08:37.894 - User exited the application.
+2024-10-04 16:10:54.324 - Client started on port::3000::Server protocol::UDP::Hostname::localhost
+2024-10-04 16:10:54.350 - Connected to UDP server at localhost:3000
+2024-10-04 16:10:54.352 - UDP PUT Operation: Sent (USA, Washington DC)
+2024-10-04 16:10:54.357 - UDP Response: Error: Malformed request
+2024-10-04 16:10:54.357 - UDP PUT Operation: Sent (France, Paris)
+2024-10-04 16:10:54.361 - UDP Response: PUT successful for key: France
+2024-10-04 16:10:54.362 - UDP PUT Operation: Sent (Germany, Berlin)
+2024-10-04 16:10:54.363 - UDP Response: PUT successful for key: Germany
+2024-10-04 16:10:54.363 - UDP PUT Operation: Sent (Japan, Tokyo)
+2024-10-04 16:10:54.363 - UDP Response: PUT successful for key: Japan
+2024-10-04 16:10:54.364 - UDP PUT Operation: Sent (Canada, Ottawa)
+2024-10-04 16:10:54.364 - UDP Response: PUT successful for key: Canada
+2024-10-04 16:10:54.365 - UDP PUT Operation: Sent (India, New Delhi)
+2024-10-04 16:10:54.365 - UDP Response: Error: Malformed request
+2024-10-04 16:10:54.366 - UDP PUT Operation: Sent (Brazil, Brasilia)
+2024-10-04 16:10:54.366 - UDP Response: PUT successful for key: Brazil
+2024-10-04 16:10:54.366 - UDP PUT Operation: Sent (Australia, Canberra)
+2024-10-04 16:10:54.367 - UDP Response: PUT successful for key: Australia
+2024-10-04 16:10:54.367 - UDP PUT Operation: Sent (Mexico, Mexico City)
+2024-10-04 16:10:54.368 - UDP Response: Error: Malformed request
+2024-10-04 16:10:54.368 - UDP PUT Operation: Sent (Russia, Moscow)
+2024-10-04 16:10:54.369 - UDP Response: PUT successful for key: Russia
+2024-10-04 16:10:54.369 - UDP PUT Operation: Sent (Tesla, Electric Car)
+2024-10-04 16:10:54.369 - UDP Response: Error: Malformed request
+2024-10-04 16:10:54.370 - UDP PUT Operation: Sent (Apple, Technology)
+2024-10-04 16:10:54.370 - UDP Response: PUT successful for key: Apple
+2024-10-04 16:10:54.370 - UDP PUT Operation: Sent (Nike, Sportswear)
+2024-10-04 16:10:54.371 - UDP Response: PUT successful for key: Nike
+2024-10-04 16:10:54.371 - UDP PUT Operation: Sent (Amazon, E-commerce)
+2024-10-04 16:10:54.372 - UDP Response: Error: Malformed request
+2024-10-04 16:10:54.372 - UDP PUT Operation: Sent (Coca-Cola, Beverage)
+2024-10-04 16:10:54.373 - UDP Response: Error: Malformed request
+2024-10-04 16:10:54.373 - UDP PUT Operation: Sent (Google, Search Engine)
+2024-10-04 16:10:54.374 - UDP Response: Error: Malformed request
+2024-10-04 16:10:54.374 - UDP PUT Operation: Sent (Microsoft, Software)
+2024-10-04 16:10:54.375 - UDP Response: PUT successful for key: Microsoft
+2024-10-04 16:10:54.375 - UDP PUT Operation: Sent (BMW, Automobile)
+2024-10-04 16:10:54.376 - UDP Response: PUT successful for key: BMW
+2024-10-04 16:10:54.376 - UDP PUT Operation: Sent (Starbucks, Coffee)
+2024-10-04 16:10:54.377 - UDP Response: PUT successful for key: Starbucks
+2024-10-04 16:10:54.377 - UDP PUT Operation: Sent (Samsung, Electronics)
+2024-10-04 16:10:54.377 - UDP Response: PUT successful for key: Samsung
+2024-10-04 16:10:54.378 - UDP GET Operation: Requested USA
+2024-10-04 16:10:54.382 - UDP Response: ERROR: Key not found
+2024-10-04 16:10:54.382 - UDP GET Operation: Requested France
+2024-10-04 16:10:54.383 - UDP Response: GET successful: Paris
+2024-10-04 16:10:54.383 - UDP GET Operation: Requested Germany
+2024-10-04 16:10:54.383 - UDP Response: GET successful: Berlin
+2024-10-04 16:10:54.383 - UDP GET Operation: Requested Japan
+2024-10-04 16:10:54.384 - UDP Response: GET successful: Tokyo
+2024-10-04 16:10:54.384 - UDP GET Operation: Requested Canada
+2024-10-04 16:10:54.384 - UDP Response: GET successful: Ottawa
+2024-10-04 16:10:54.385 - UDP DELETE Operation: Deleted USA
+2024-10-04 16:10:54.385 - UDP Response: ERROR: Key does not exist
+2024-10-04 16:10:54.385 - UDP DELETE Operation: Deleted France
+2024-10-04 16:10:54.386 - UDP Response: DELETE successful for key: France
+2024-10-04 16:10:54.386 - UDP DELETE Operation: Deleted Germany
+2024-10-04 16:10:54.387 - UDP Response: DELETE successful for key: Germany
+2024-10-04 16:10:54.387 - UDP DELETE Operation: Deleted Japan
+2024-10-04 16:10:54.388 - UDP Response: DELETE successful for key: Japan
+2024-10-04 16:10:54.388 - UDP DELETE Operation: Deleted Canada
+2024-10-04 16:10:54.388 - UDP Response: DELETE successful for key: Canada
+2024-10-04 16:10:54.390 - Connected to UDP server at localhost:3000
+2024-10-04 16:11:05.231 - Sent UDP request: PUT:sud:pat
+2024-10-04 16:11:05.233 - Received UDP response: PUT successful for key: sud
+2024-10-04 16:11:09.495 - Sent UDP request: GET:sud
+2024-10-04 16:11:09.496 - Received UDP response: GET successful: pat
+2024-10-04 16:11:12.463 - Sent UDP request: GET:pat
+2024-10-04 16:11:12.465 - Received UDP response: ERROR: Key not found
+2024-10-04 16:11:17.372 - Sent UDP request: DELETE:pat
+2024-10-04 16:11:17.374 - Received UDP response: ERROR: Key does not exist
+2024-10-04 16:11:21.183 - Sent UDP request: DELETE:sud
+2024-10-04 16:11:21.184 - Received UDP response: DELETE successful for key: sud
+2024-10-04 16:11:26.485 - User exited the application.
+2024-10-04 16:17:57.563 - Client started on port::3000::Server protocol::UDP::Hostname::localhost
+2024-10-04 16:17:57.590 - Connected to UDP server at localhost:3000
+2024-10-04 16:17:57.592 - UDP PUT Operation: Sent (USA, Washington DC)
+2024-10-04 16:17:57.597 - UDP Response: Error: Malformed request
+2024-10-04 16:17:57.598 - UDP PUT Operation: Sent (France, Paris)
+2024-10-04 16:17:57.602 - UDP Response: PUT successful for key: France
+2024-10-04 16:17:57.603 - UDP PUT Operation: Sent (Germany, Berlin)
+2024-10-04 16:17:57.603 - UDP Response: PUT successful for key: Germany
+2024-10-04 16:17:57.603 - UDP PUT Operation: Sent (Japan, Tokyo)
+2024-10-04 16:17:57.604 - UDP Response: PUT successful for key: Japan
+2024-10-04 16:17:57.604 - UDP PUT Operation: Sent (Canada, Ottawa)
+2024-10-04 16:17:57.605 - UDP Response: PUT successful for key: Canada
+2024-10-04 16:17:57.605 - UDP PUT Operation: Sent (India, New Delhi)
+2024-10-04 16:17:57.605 - UDP Response: Error: Malformed request
+2024-10-04 16:17:57.605 - UDP PUT Operation: Sent (Brazil, Brasilia)
+2024-10-04 16:17:57.606 - UDP Response: PUT successful for key: Brazil
+2024-10-04 16:17:57.606 - UDP PUT Operation: Sent (Australia, Canberra)
+2024-10-04 16:17:57.606 - UDP Response: PUT successful for key: Australia
+2024-10-04 16:17:57.607 - UDP PUT Operation: Sent (Mexico, Mexico City)
+2024-10-04 16:17:57.607 - UDP Response: Error: Malformed request
+2024-10-04 16:17:57.607 - UDP PUT Operation: Sent (Russia, Moscow)
+2024-10-04 16:17:57.608 - UDP Response: PUT successful for key: Russia
+2024-10-04 16:17:57.608 - UDP PUT Operation: Sent (Tesla, Electric Car)
+2024-10-04 16:17:57.609 - UDP Response: Error: Malformed request
+2024-10-04 16:17:57.609 - UDP PUT Operation: Sent (Apple, Technology)
+2024-10-04 16:17:57.610 - UDP Response: PUT successful for key: Apple
+2024-10-04 16:17:57.610 - UDP PUT Operation: Sent (Nike, Sportswear)
+2024-10-04 16:17:57.611 - UDP Response: PUT successful for key: Nike
+2024-10-04 16:17:57.611 - UDP PUT Operation: Sent (Amazon, E-commerce)
+2024-10-04 16:17:57.611 - UDP Response: Error: Malformed request
+2024-10-04 16:17:57.612 - UDP PUT Operation: Sent (Coca-Cola, Beverage)
+2024-10-04 16:17:57.612 - UDP Response: Error: Malformed request
+2024-10-04 16:17:57.612 - UDP PUT Operation: Sent (Google, Search Engine)
+2024-10-04 16:17:57.613 - UDP Response: Error: Malformed request
+2024-10-04 16:17:57.613 - UDP PUT Operation: Sent (Microsoft, Software)
+2024-10-04 16:17:57.614 - UDP Response: PUT successful for key: Microsoft
+2024-10-04 16:17:57.615 - UDP PUT Operation: Sent (BMW, Automobile)
+2024-10-04 16:17:57.615 - UDP Response: PUT successful for key: BMW
+2024-10-04 16:17:57.615 - UDP PUT Operation: Sent (Starbucks, Coffee)
+2024-10-04 16:17:57.617 - UDP Response: PUT successful for key: Starbucks
+2024-10-04 16:17:57.617 - UDP PUT Operation: Sent (Samsung, Electronics)
+2024-10-04 16:17:57.617 - UDP Response: PUT successful for key: Samsung
+2024-10-04 16:17:57.618 - UDP GET Operation: Requested USA
+2024-10-04 16:17:57.620 - UDP Response: ERROR: Key not found
+2024-10-04 16:17:57.620 - UDP GET Operation: Requested France
+2024-10-04 16:17:57.621 - UDP Response: GET successful: Paris
+2024-10-04 16:17:57.621 - UDP GET Operation: Requested Germany
+2024-10-04 16:17:57.621 - UDP Response: GET successful: Berlin
+2024-10-04 16:17:57.621 - UDP GET Operation: Requested Japan
+2024-10-04 16:17:57.622 - UDP Response: GET successful: Tokyo
+2024-10-04 16:17:57.622 - UDP GET Operation: Requested Canada
+2024-10-04 16:17:57.622 - UDP Response: GET successful: Ottawa
+2024-10-04 16:17:57.623 - UDP DELETE Operation: Deleted USA
+2024-10-04 16:17:57.624 - UDP Response: ERROR: Key does not exist
+2024-10-04 16:17:57.624 - UDP DELETE Operation: Deleted France
+2024-10-04 16:17:57.625 - UDP Response: DELETE successful for key: France
+2024-10-04 16:17:57.625 - UDP DELETE Operation: Deleted Germany
+2024-10-04 16:17:57.625 - UDP Response: DELETE successful for key: Germany
+2024-10-04 16:17:57.626 - UDP DELETE Operation: Deleted Japan
+2024-10-04 16:17:57.626 - UDP Response: DELETE successful for key: Japan
+2024-10-04 16:17:57.627 - UDP DELETE Operation: Deleted Canada
+2024-10-04 16:17:57.628 - UDP Response: DELETE successful for key: Canada
+2024-10-04 16:17:57.630 - Connected to UDP server at localhost:3000
+2024-10-04 16:18:37.303 - Sent UDP request: GET:jacket
+2024-10-04 16:18:37.305 - Received UDP response: GET successful: An outer garment extending to the waist or hips
+2024-10-04 16:18:41.360 - ERROR: Unknown command: CLEAR
+2024-10-04 16:18:42.741 - User exited the application.
+2024-10-04 16:19:10.091 - Client started on port::3000::Server protocol::TCP::Hostname::localhost
+2024-10-04 16:19:10.116 - Connected to TCP server at localhost:3000
+2024-10-04 16:19:10.130 - TCP PUT Operation: Sent (USA, Washington DC) - Response: PUT successful for key: USA
+2024-10-04 16:19:10.130 - TCP PUT Operation: Sent (France, Paris) - Response: PUT successful for key: France
+2024-10-04 16:19:10.131 - TCP PUT Operation: Sent (Germany, Berlin) - Response: PUT successful for key: Germany
+2024-10-04 16:19:10.132 - TCP PUT Operation: Sent (Japan, Tokyo) - Response: PUT successful for key: Japan
+2024-10-04 16:19:10.132 - TCP PUT Operation: Sent (Canada, Ottawa) - Response: PUT successful for key: Canada
+2024-10-04 16:19:10.133 - TCP PUT Operation: Sent (India, New Delhi) - Response: PUT successful for key: India
+2024-10-04 16:19:10.134 - TCP PUT Operation: Sent (Brazil, Brasilia) - Response: PUT successful for key: Brazil
+2024-10-04 16:19:10.134 - TCP PUT Operation: Sent (Australia, Canberra) - Response: PUT successful for key: Australia
+2024-10-04 16:19:10.135 - TCP PUT Operation: Sent (Mexico, Mexico City) - Response: PUT successful for key: Mexico
+2024-10-04 16:19:10.136 - TCP PUT Operation: Sent (Russia, Moscow) - Response: PUT successful for key: Russia
+2024-10-04 16:19:10.137 - TCP PUT Operation: Sent (Tesla, Electric Car) - Response: PUT successful for key: Tesla
+2024-10-04 16:19:10.137 - TCP PUT Operation: Sent (Apple, Technology) - Response: PUT successful for key: Apple
+2024-10-04 16:19:10.138 - TCP PUT Operation: Sent (Nike, Sportswear) - Response: PUT successful for key: Nike
+2024-10-04 16:19:10.138 - TCP PUT Operation: Sent (Amazon, E-commerce) - Response: PUT successful for key: Amazon
+2024-10-04 16:19:10.139 - TCP PUT Operation: Sent (Coca-Cola, Beverage) - Response: PUT successful for key: Coca-Cola
+2024-10-04 16:19:10.139 - TCP PUT Operation: Sent (Google, Search Engine) - Response: PUT successful for key: Google
+2024-10-04 16:19:10.140 - TCP PUT Operation: Sent (Microsoft, Software) - Response: PUT successful for key: Microsoft
+2024-10-04 16:19:10.140 - TCP PUT Operation: Sent (BMW, Automobile) - Response: PUT successful for key: BMW
+2024-10-04 16:19:10.141 - TCP PUT Operation: Sent (Starbucks, Coffee) - Response: PUT successful for key: Starbucks
+2024-10-04 16:19:10.142 - TCP PUT Operation: Sent (Samsung, Electronics) - Response: PUT successful for key: Samsung
+2024-10-04 16:19:10.143 - TCP GET Operation: Requested USA - Response: GET successful: Washington DC
+2024-10-04 16:19:10.143 - TCP GET Operation: Requested France - Response: GET successful: Paris
+2024-10-04 16:19:10.144 - TCP GET Operation: Requested Germany - Response: GET successful: Berlin
+2024-10-04 16:19:10.144 - TCP GET Operation: Requested Japan - Response: GET successful: Tokyo
+2024-10-04 16:19:10.145 - TCP GET Operation: Requested Canada - Response: GET successful: Ottawa
+2024-10-04 16:19:10.148 - TCP DELETE Operation: Deleted USA - Response: DELETE successful for key: USA
+2024-10-04 16:19:10.148 - TCP DELETE Operation: Deleted France - Response: DELETE successful for key: France
+2024-10-04 16:19:10.149 - TCP DELETE Operation: Deleted Germany - Response: DELETE successful for key: Germany
+2024-10-04 16:19:10.150 - TCP DELETE Operation: Deleted Japan - Response: DELETE successful for key: Japan
+2024-10-04 16:19:10.150 - TCP DELETE Operation: Deleted Canada - Response: DELETE successful for key: Canada
+2024-10-04 16:19:10.153 - Connected to TCP server at localhost:3000
+2024-10-04 16:19:14.295 - Sent request: PUT:sudh:sud
+2024-10-04 16:19:14.297 - Received response: PUT successful for key: sudh
+2024-10-04 16:19:19.429 - Sent request: GET:jacket
+2024-10-04 16:19:19.431 - Received response: GET successful: An outer garment extending to the waist or hips
+2024-10-04 16:19:23.129 - User exited the application.
+2024-10-04 16:21:11.682 - Client started on port::3000::Server protocol::TCP::Hostname::localhost
+2024-10-04 16:21:11.706 - Connected to TCP server at localhost:3000
+2024-10-04 16:21:11.720 - TCP PUT Operation: Sent (USA, Washington DC) - Response: Error: Malformed request
+2024-10-04 16:21:11.721 - TCP PUT Operation: Sent (France, Paris) - Response: PUT successful for key: France
+2024-10-04 16:21:11.722 - TCP PUT Operation: Sent (Germany, Berlin) - Response: PUT successful for key: Germany
+2024-10-04 16:21:11.723 - TCP PUT Operation: Sent (Japan, Tokyo) - Response: PUT successful for key: Japan
+2024-10-04 16:21:11.724 - TCP PUT Operation: Sent (Canada, Ottawa) - Response: PUT successful for key: Canada
+2024-10-04 16:21:11.724 - TCP PUT Operation: Sent (India, New Delhi) - Response: Error: Malformed request
+2024-10-04 16:21:11.725 - TCP PUT Operation: Sent (Brazil, Brasilia) - Response: PUT successful for key: Brazil
+2024-10-04 16:21:11.725 - TCP PUT Operation: Sent (Australia, Canberra) - Response: PUT successful for key: Australia
+2024-10-04 16:21:11.726 - TCP PUT Operation: Sent (Mexico, Mexico City) - Response: Error: Malformed request
+2024-10-04 16:21:11.727 - TCP PUT Operation: Sent (Russia, Moscow) - Response: PUT successful for key: Russia
+2024-10-04 16:21:11.727 - TCP PUT Operation: Sent (Tesla, Electric Car) - Response: Error: Malformed request
+2024-10-04 16:21:11.728 - TCP PUT Operation: Sent (Apple, Technology) - Response: PUT successful for key: Apple
+2024-10-04 16:21:11.728 - TCP PUT Operation: Sent (Nike, Sportswear) - Response: PUT successful for key: Nike
+2024-10-04 16:21:11.729 - TCP PUT Operation: Sent (Amazon, E-commerce) - Response: Error: Malformed request
+2024-10-04 16:21:11.730 - TCP PUT Operation: Sent (Coca-Cola, Beverage) - Response: Error: Malformed request
+2024-10-04 16:21:11.731 - TCP PUT Operation: Sent (Google, Search Engine) - Response: Error: Malformed request
+2024-10-04 16:21:11.731 - TCP PUT Operation: Sent (Microsoft, Software) - Response: PUT successful for key: Microsoft
+2024-10-04 16:21:11.732 - TCP PUT Operation: Sent (BMW, Automobile) - Response: PUT successful for key: BMW
+2024-10-04 16:21:11.732 - TCP PUT Operation: Sent (Starbucks, Coffee) - Response: PUT successful for key: Starbucks
+2024-10-04 16:21:11.733 - TCP PUT Operation: Sent (Samsung, Electronics) - Response: PUT successful for key: Samsung
+2024-10-04 16:21:11.734 - TCP GET Operation: Requested USA - Response: GET successful: Washington DC
+2024-10-04 16:21:11.735 - TCP GET Operation: Requested France - Response: GET successful: Paris
+2024-10-04 16:21:11.736 - TCP GET Operation: Requested Germany - Response: GET successful: Berlin
+2024-10-04 16:21:11.737 - TCP GET Operation: Requested Japan - Response: GET successful: Tokyo
+2024-10-04 16:21:11.738 - TCP GET Operation: Requested Canada - Response: GET successful: Ottawa
+2024-10-04 16:21:11.741 - TCP DELETE Operation: Deleted USA - Response: DELETE successful for key: USA
+2024-10-04 16:21:11.741 - TCP DELETE Operation: Deleted France - Response: DELETE successful for key: France
+2024-10-04 16:21:11.742 - TCP DELETE Operation: Deleted Germany - Response: DELETE successful for key: Germany
+2024-10-04 16:21:11.743 - TCP DELETE Operation: Deleted Japan - Response: DELETE successful for key: Japan
+2024-10-04 16:21:11.743 - TCP DELETE Operation: Deleted Canada - Response: DELETE successful for key: Canada
+2024-10-04 16:21:11.745 - Connected to TCP server at localhost:3000
+2024-10-04 16:21:17.157 - ERROR: Invalid PUT command format. Expected PUT <key> <value>.
+2024-10-04 16:21:28.363 - Sent request: PUT:foisehn$:oifhe#
+2024-10-04 16:21:28.364 - ERROR: Received unsolicited or malformed response from SERVER
+2024-10-04 16:21:28.365 - ERROR: Received malformed response from SERVER
+2024-10-04 16:22:30.524 - Sent request: PUT:little:boy
+2024-10-04 16:22:30.526 - Received response: PUT successful for key: little
+2024-10-04 16:22:36.396 - Sent request: GET:little
+2024-10-04 16:22:36.397 - Received response: GET successful: boy
+2024-10-04 16:22:38.212 - ERROR: Unknown command: CLEAR
+2024-10-04 16:22:39.782 - User exited the application.
+2024-10-04 16:52:00.626 - Client started on port::8080::Server protocol::TCP::Hostname::localhost
+2024-10-04 16:52:00.655 - Connected to TCP server at localhost:8080
+2024-10-04 16:52:00.672 - TCP PUT Operation: Sent (USA, Washington DC) - Response: Error: Malformed request from Client
+2024-10-04 16:52:00.673 - TCP PUT Operation: Sent (France, Paris) - Response: PUT successful for key: France
+2024-10-04 16:52:00.674 - TCP PUT Operation: Sent (Germany, Berlin) - Response: PUT successful for key: Germany
+2024-10-04 16:52:00.675 - TCP PUT Operation: Sent (Japan, Tokyo) - Response: PUT successful for key: Japan
+2024-10-04 16:52:00.676 - TCP PUT Operation: Sent (Canada, Ottawa) - Response: PUT successful for key: Canada
+2024-10-04 16:52:00.678 - TCP PUT Operation: Sent (India, New Delhi) - Response: Error: Malformed request from Client
+2024-10-04 16:52:00.679 - TCP PUT Operation: Sent (Brazil, Brasilia) - Response: PUT successful for key: Brazil
+2024-10-04 16:52:00.681 - TCP PUT Operation: Sent (Australia, Canberra) - Response: PUT successful for key: Australia
+2024-10-04 16:52:00.682 - TCP PUT Operation: Sent (Mexico, Mexico City) - Response: Error: Malformed request from Client
+2024-10-04 16:52:00.683 - TCP PUT Operation: Sent (Russia, Moscow) - Response: PUT successful for key: Russia
+2024-10-04 16:52:00.684 - TCP PUT Operation: Sent (Tesla, Electric Car) - Response: Error: Malformed request from Client
+2024-10-04 16:52:00.685 - TCP PUT Operation: Sent (Apple, Technology) - Response: PUT successful for key: Apple
+2024-10-04 16:52:00.686 - TCP PUT Operation: Sent (Nike, Sportswear) - Response: PUT successful for key: Nike
+2024-10-04 16:52:00.686 - TCP PUT Operation: Sent (Amazon, E-commerce) - Response: Error: Malformed request from Client
+2024-10-04 16:52:00.687 - TCP PUT Operation: Sent (Coca-Cola, Beverage) - Response: Error: Malformed request from Client
+2024-10-04 16:52:00.688 - TCP PUT Operation: Sent (Google, Search Engine) - Response: Error: Malformed request from Client
+2024-10-04 16:52:00.689 - TCP PUT Operation: Sent (Microsoft, Software) - Response: PUT successful for key: Microsoft
+2024-10-04 16:52:00.689 - TCP PUT Operation: Sent (BMW, Automobile) - Response: PUT successful for key: BMW
+2024-10-04 16:52:00.690 - TCP PUT Operation: Sent (Starbucks, Coffee) - Response: PUT successful for key: Starbucks
+2024-10-04 16:52:00.690 - TCP PUT Operation: Sent (Samsung, Electronics) - Response: PUT successful for key: Samsung
+2024-10-04 16:52:00.691 - TCP GET Operation: Requested USA - Response: GET successful: Washington DC
+2024-10-04 16:52:00.692 - TCP GET Operation: Requested France - Response: GET successful: Paris
+2024-10-04 16:52:00.692 - TCP GET Operation: Requested Germany - Response: GET successful: Berlin
+2024-10-04 16:52:00.693 - TCP GET Operation: Requested Japan - Response: GET successful: Tokyo
+2024-10-04 16:52:00.694 - TCP GET Operation: Requested Canada - Response: GET successful: Ottawa
+2024-10-04 16:52:00.697 - TCP DELETE Operation: Deleted USA - Response: DELETE successful for key: USA
+2024-10-04 16:52:00.698 - TCP DELETE Operation: Deleted France - Response: DELETE successful for key: France
+2024-10-04 16:52:00.699 - TCP DELETE Operation: Deleted Germany - Response: DELETE successful for key: Germany
+2024-10-04 16:52:00.700 - TCP DELETE Operation: Deleted Japan - Response: DELETE successful for key: Japan
+2024-10-04 16:52:00.700 - TCP DELETE Operation: Deleted Canada - Response: DELETE successful for key: Canada
+2024-10-04 16:52:00.702 - Connected to TCP server at localhost:8080
+2024-10-04 16:52:15.909 - ERROR: Unknown command: P
+2024-10-04 16:52:26.460 - Sent request: PUT:sud:pot
+2024-10-04 16:52:26.462 - Received response: PUT successful for key: sud
+2024-10-04 16:52:29.286 - ERROR: Unknown command: CLEAR
+2024-10-04 16:52:31.372 - User exited the application.
+2024-10-04 16:52:48.772 - Client started on port::8080::Server protocol::TCP::Hostname::localhost
+2024-10-04 16:52:48.797 - Connected to TCP server at localhost:8080
+2024-10-04 16:52:48.811 - TCP PUT Operation: Sent (USA, Washington DC) - Response: Error: Malformed request from Client
+2024-10-04 16:52:48.812 - TCP PUT Operation: Sent (France, Paris) - Response: PUT successful for key: France
+2024-10-04 16:52:48.812 - TCP PUT Operation: Sent (Germany, Berlin) - Response: PUT successful for key: Germany
+2024-10-04 16:52:48.813 - TCP PUT Operation: Sent (Japan, Tokyo) - Response: PUT successful for key: Japan
+2024-10-04 16:52:48.813 - TCP PUT Operation: Sent (Canada, Ottawa) - Response: PUT successful for key: Canada
+2024-10-04 16:52:48.814 - TCP PUT Operation: Sent (India, New Delhi) - Response: Error: Malformed request from Client
+2024-10-04 16:52:48.815 - TCP PUT Operation: Sent (Brazil, Brasilia) - Response: PUT successful for key: Brazil
+2024-10-04 16:52:48.815 - TCP PUT Operation: Sent (Australia, Canberra) - Response: PUT successful for key: Australia
+2024-10-04 16:52:48.816 - TCP PUT Operation: Sent (Mexico, Mexico City) - Response: Error: Malformed request from Client
+2024-10-04 16:52:48.816 - TCP PUT Operation: Sent (Russia, Moscow) - Response: PUT successful for key: Russia
+2024-10-04 16:52:48.817 - TCP PUT Operation: Sent (Tesla, Electric Car) - Response: Error: Malformed request from Client
+2024-10-04 16:52:48.818 - TCP PUT Operation: Sent (Apple, Technology) - Response: PUT successful for key: Apple
+2024-10-04 16:52:48.818 - TCP PUT Operation: Sent (Nike, Sportswear) - Response: PUT successful for key: Nike
+2024-10-04 16:52:48.859 - TCP PUT Operation: Sent (Amazon, E-commerce) - Response: Error: Malformed request from Client
+2024-10-04 16:52:48.860 - TCP PUT Operation: Sent (Coca-Cola, Beverage) - Response: Error: Malformed request from Client
+2024-10-04 16:52:48.861 - TCP PUT Operation: Sent (Google, Search Engine) - Response: Error: Malformed request from Client
+2024-10-04 16:52:48.861 - TCP PUT Operation: Sent (Microsoft, Software) - Response: PUT successful for key: Microsoft
+2024-10-04 16:52:48.862 - TCP PUT Operation: Sent (BMW, Automobile) - Response: PUT successful for key: BMW
+2024-10-04 16:52:48.862 - TCP PUT Operation: Sent (Starbucks, Coffee) - Response: PUT successful for key: Starbucks
+2024-10-04 16:52:48.863 - TCP PUT Operation: Sent (Samsung, Electronics) - Response: PUT successful for key: Samsung
+2024-10-04 16:52:48.865 - TCP GET Operation: Requested USA - Response: GET successful: Washington DC
+2024-10-04 16:52:48.869 - TCP GET Operation: Requested France - Response: GET successful: Paris
+2024-10-04 16:52:48.870 - TCP GET Operation: Requested Germany - Response: GET successful: Berlin
+2024-10-04 16:52:48.871 - TCP GET Operation: Requested Japan - Response: GET successful: Tokyo
+2024-10-04 16:52:48.873 - TCP GET Operation: Requested Canada - Response: GET successful: Ottawa
+2024-10-04 16:52:48.878 - TCP DELETE Operation: Deleted USA - Response: DELETE successful for key: USA
+2024-10-04 16:52:48.879 - TCP DELETE Operation: Deleted France - Response: DELETE successful for key: France
+2024-10-04 16:52:48.880 - TCP DELETE Operation: Deleted Germany - Response: DELETE successful for key: Germany
+2024-10-04 16:52:48.880 - TCP DELETE Operation: Deleted Japan - Response: DELETE successful for key: Japan
+2024-10-04 16:52:48.881 - TCP DELETE Operation: Deleted Canada - Response: DELETE successful for key: Canada
+2024-10-04 16:52:48.883 - Connected to TCP server at localhost:8080
+2024-10-04 16:53:09.264 - Sent request: PUT:game:pot
+2024-10-04 16:53:09.266 - Received response: PUT successful for key: game
+2024-10-04 16:53:13.125 - Sent request: GET:game
+2024-10-04 16:53:13.125 - Received response: GET successful: pot
+2024-10-04 16:53:15.520 - ERROR: Unknown command: CLEAR

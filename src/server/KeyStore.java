@@ -3,8 +3,8 @@ package src.server;
 import java.util.HashMap;
 
 /**
- * The KeyStore class provides a simple key-value store implementation 
- * that allows storing, retrieving, and deleting key-value pairs. 
+ * The KeyStore class provides a simple key-value store implementation
+ * that allows storing, retrieving, and deleting key-value pairs.
  * It is synchronized to support concurrent access from multiple threads.
  */
 public class KeyStore {

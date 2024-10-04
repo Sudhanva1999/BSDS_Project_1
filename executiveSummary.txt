@@ -1,0 +1,53 @@
+—--------------------------------------------------------------------------------------------------------------------------
+Project 1
+Sudhanva Paturkar
+Number of remaining late days:5
+—--------------------------------------------------------------------------------------------------------------------------
+Executive Summary : 
+—--------------------------------------------------------------------------------------------------------------------------
+The purpose of this assignment was to learn at a ground level implementation of a system that uses 
+transport layer protocols like TCP and UDP. By building the Key-Value Store for both TCP and UDP based 
+communication I was able to learn the different logging and timeout mechanisms that need to be developed
+for systems relying on these protocols. How the messages are sent, received and processed also changes
+with the type of protocol being used. The project scope involved not only implementing the server 
+client mechanisms and different protocol handlers but it also involved non-functional requirements
+like logging and robust error handling for operational transparency. The need for different TCP
+and UDP mechanisms for communication also required implementing a modular and  maintainable 
+architecture to avoid code redundancy. 
+—--------------------------------------------------------------------------------------------------------------------------
+—--------------------------------------------------------------------------------------------------------------------------
+Technical Impressions : 
+—--------------------------------------------------------------------------------------------------------------------------
+While the project’s functional requirements i:e the keystore, was straightforward to implement 
+the implementation of robust communication channels using TCP and UDP required a good understanding 
+of the way in which these protocols work. TCP and UDP differ significantly in their handling of data
+transmission and connection management. Designing the server handlers required careful attention to
+detail especially in terms of parsing client requests and responding appropriately. 
+
+While writing the server implementation for TCP and UDP I quickly realized that there was a lot of 
+redundancy in the code and I was writing the same thing again, while the project did not ask for the
+code to be modular and sound principally, I felt like I could abstract out a lot of logic in abstract
+classes and only implement protocol specific classes for communication. This required refactoring 
+the classes and leveraging the oop principles in java to implement a modular code. 
+
+Implementing the logging also took some consideration as I had to make sure every detail was being 
+captured for maximizing transparency and also make the system easier to debug in the event of a failure. 
+I ended up using the very same logs to debug the UDP code when I realized that requests were not being 
+processed as expected for the populate server code in my project. 
+
+
+There are a few things I would like to improve in the next iteration and those would be to use a 
+propper java build framework like ‘Ant’ to ensure quick building and running of services and dependency
+management tool like ‘Maven’ to ensure that I did not have to implement the logging classes myself. 
+Additionally, implementing unit tests for the key-value store and server handlers could help ensure 
+the reliability of these components under various conditions, which would be beneficial for future 
+projects.
+
+One use case for which this system is really useful is for real time collaboration tools like Google Docs.
+The Key-Value Store can be utilized in document editing, where multiple users need to access and modify 
+shared documents in real-time. TCP can ensure reliable message delivery for critical updates, while UDP
+can facilitate faster, less critical notifications such as user presence or typing status.
+
+—--------------------------------------------------------------------------------------------------------------------------
+END
+—--------------------------------------------------------------------------------------------------------------------------

@@ -4,7 +4,8 @@ import java.io.*;
 import java.net.*;
 
 /**
- * A helper class that facilitates communication between the client and a UDP-based key-value store server. 
+ * A helper class that facilitates communication between the client and a
+ * UDP-based key-value store server.
  * It sends requests and receives responses using UDP protocol.
  */
 public class UDPClientHandler extends ClientHelper {
@@ -12,7 +13,7 @@ public class UDPClientHandler extends ClientHelper {
     /**
      * Initializes a new UDP client handler with the specified port and hostname.
      *
-     * @param port the port number of the server
+     * @param port     the port number of the server
      * @param hostname the hostname or IP address of the server
      */
     public UDPClientHandler(int port, String hostname) {
@@ -20,8 +21,10 @@ public class UDPClientHandler extends ClientHelper {
     }
 
     /**
-     * Starts the UDP client, allowing the user to interact with the server by sending commands such as PUT, GET, and DELETE.
-     * The client retries to establish a connection with the server and handles responses or errors appropriately.
+     * Starts the UDP client, allowing the user to interact with the server by
+     * sending commands such as PUT, GET, and DELETE.
+     * The client retries to establish a connection with the server and handles
+     * responses or errors appropriately.
      */
     public void start() {
 
@@ -29,7 +32,7 @@ public class UDPClientHandler extends ClientHelper {
         populateServer.populateUDPServer();
 
         try (DatagramSocket socket = new DatagramSocket();
-             BufferedReader console = new BufferedReader(new InputStreamReader(System.in))) {
+                BufferedReader console = new BufferedReader(new InputStreamReader(System.in))) {
 
             InetAddress address = InetAddress.getByName(hostname);
             byte[] buffer;
@@ -45,7 +48,7 @@ public class UDPClientHandler extends ClientHelper {
                 request = console.readLine();
                 if (request.equalsIgnoreCase("exit")) {
                     SimpleLogger.log("User exited the application.");
-                    break; 
+                    break;
                 }
 
                 String formattedRequest = formatRequest(request);
@@ -62,14 +65,16 @@ public class UDPClientHandler extends ClientHelper {
                 DatagramPacket responsePacket = new DatagramPacket(new byte[1024], 1024);
 
                 try {
-                    socket.receive(responsePacket); 
+                    socket.receive(responsePacket);
                     String response = new String(responsePacket.getData(), 0, responsePacket.getLength());
                     if (isValidResponse(response)) {
                         SimpleLogger.log("Received UDP response: " + response);
-                        System.out.println("Response: " + response); 
+                        System.out.println("Response: " + response);
                     } else {
-                        SimpleLogger.logError("Received malformed or unsolicited response::PORT" + port + "::Length::" + response.length());
-                        System.err.println("Error: Received malformed or unsolicited response::PORT" + port + "::Length::" + response.length());
+                        SimpleLogger.logError("Received malformed or unsolicited response::PORT" + port + "::Length::"
+                                + response.length());
+                        System.err.println("Error: Received malformed or unsolicited response::PORT" + port
+                                + "::Length::" + response.length());
                     }
                 } catch (SocketTimeoutException e) {
                     SimpleLogger.logError("No response from server within 5 seconds.");
@@ -83,7 +88,8 @@ public class UDPClientHandler extends ClientHelper {
     }
 
     /**
-     * Displays the available commands for interacting with the key-value store server.
+     * Displays the available commands for interacting with the key-value store
+     * server.
      */
     private void displayMenu() {
         System.out.println("=== Key-Value Store UDP Client ===");
@@ -139,14 +145,16 @@ public class UDPClientHandler extends ClientHelper {
     }
 
     /**
-     * Validates whether the response received from the server is correctly formatted.
+     * Validates whether the response received from the server is correctly
+     * formatted.
      *
      * @param response the response received from the server
      * @return true if the response is valid, false otherwise
      */
     private boolean isValidResponse(String response) {
-        if (response.startsWith("ERROR:") || response.startsWith("OK:") || response.startsWith("PUT") || response.startsWith("GET") || response.startsWith("DELETE")) {
-            return true;  
+        if (response.startsWith("ERROR:") || response.startsWith("OK:") || response.startsWith("PUT")
+                || response.startsWith("GET") || response.startsWith("DELETE")) {
+            return true;
         }
         SimpleLogger.logError("Received unsolicited or malformed response");
         return false;

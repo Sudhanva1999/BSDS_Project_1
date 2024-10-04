@@ -4,36 +4,37 @@ import java.io.*;
 import java.net.*;
 
 /**
- * The PopulateUtil class is responsible for populating a key-value store on both TCP and UDP servers.
- * It sends a series of PUT, GET, and DELETE requests to the server to populate and interact with the stored data.
+ * The PopulateUtil class is responsible for populating a key-value store on
+ * both TCP and UDP servers.
+ * It sends a series of PUT, GET, and DELETE requests to the server to populate
+ * and interact with the stored data.
  */
 public class PopulateUtil {
 
     private String hostname;
     private int port;
 
-   
     private String[][] wordPairs = {
-        {"USA", "Washington DC"},
-        {"France", "Paris"},
-        {"Germany", "Berlin"},
-        {"Japan", "Tokyo"},
-        {"Canada", "Ottawa"},
-        {"India", "New Delhi"},
-        {"Brazil", "Brasilia"},
-        {"Australia", "Canberra"},
-        {"Mexico", "Mexico City"},
-        {"Russia", "Moscow"},
-        {"Tesla", "Electric Car"},
-        {"Apple", "Technology"},
-        {"Nike", "Sportswear"},
-        {"Amazon", "E-commerce"},
-        {"Coca-Cola", "Beverage"},
-        {"Google", "Search Engine"},
-        {"Microsoft", "Software"},
-        {"BMW", "Automobile"},
-        {"Starbucks", "Coffee"},
-        {"Samsung", "Electronics"}
+            { "USA", "Washington DC" },
+            { "France", "Paris" },
+            { "Germany", "Berlin" },
+            { "Japan", "Tokyo" },
+            { "Canada", "Ottawa" },
+            { "India", "New Delhi" },
+            { "Brazil", "Brasilia" },
+            { "Australia", "Canberra" },
+            { "Mexico", "Mexico City" },
+            { "Russia", "Moscow" },
+            { "Tesla", "Electric Car" },
+            { "Apple", "Technology" },
+            { "Nike", "Sportswear" },
+            { "Amazon", "E-commerce" },
+            { "Coca-Cola", "Beverage" },
+            { "Google", "Search Engine" },
+            { "Microsoft", "Software" },
+            { "BMW", "Automobile" },
+            { "Starbucks", "Coffee" },
+            { "Samsung", "Electronics" }
     };
 
     /**
@@ -48,15 +49,17 @@ public class PopulateUtil {
     }
 
     /**
-     * Populates the key-value store on a TCP server by sending PUT requests for each word pair
+     * Populates the key-value store on a TCP server by sending PUT requests for
+     * each word pair
      * and retrieves or deletes data based on predefined logic.
-     * It establishes a TCP connection, performs the operations, and logs the results.
+     * It establishes a TCP connection, performs the operations, and logs the
+     * results.
      */
     public void populateTCPServer() {
 
         try (Socket socket = new Socket(hostname, port);
-             BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-             PrintWriter out = new PrintWriter(socket.getOutputStream(), true)) {
+                BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+                PrintWriter out = new PrintWriter(socket.getOutputStream(), true)) {
 
             SimpleLogger.log("Connected to TCP server at " + hostname + ":" + port);
 
@@ -88,7 +91,8 @@ public class PopulateUtil {
     }
 
     /**
-     * Populates the key-value store on a UDP server by sending PUT requests for each word pair,
+     * Populates the key-value store on a UDP server by sending PUT requests for
+     * each word pair,
      * and retrieves or deletes data based on predefined logic.
      * It uses UDP datagrams to communicate with the server and logs the results.
      */
@@ -112,7 +116,7 @@ public class PopulateUtil {
 
                 DatagramPacket responsePacket = new DatagramPacket(new byte[1024], 1024);
                 try {
-                    socket.receive(responsePacket); 
+                    socket.receive(responsePacket);
                     String response = new String(responsePacket.getData(), 0, responsePacket.getLength());
                     SimpleLogger.log("UDP Response: " + response);
                 } catch (SocketTimeoutException e) {
@@ -130,7 +134,7 @@ public class PopulateUtil {
 
                 DatagramPacket responsePacket = new DatagramPacket(new byte[1024], 1024);
                 try {
-                    socket.receive(responsePacket); 
+                    socket.receive(responsePacket);
                     String response = new String(responsePacket.getData(), 0, responsePacket.getLength());
                     SimpleLogger.log("UDP Response: " + response);
                 } catch (SocketTimeoutException e) {
@@ -148,7 +152,7 @@ public class PopulateUtil {
 
                 DatagramPacket responsePacket = new DatagramPacket(new byte[1024], 1024);
                 try {
-                    socket.receive(responsePacket); 
+                    socket.receive(responsePacket);
                     String response = new String(responsePacket.getData(), 0, responsePacket.getLength());
                     SimpleLogger.log("UDP Response: " + response);
                 } catch (SocketTimeoutException e) {

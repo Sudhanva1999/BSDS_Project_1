@@ -1,0 +1,1349 @@
+2024-10-04 16:00:17.956 - Server started on port::3000::Server protocol::TCP
+2024-10-04 16:00:17.994 - TCP Server started on port 3000
+2024-10-04 16:00:57.628 - TCP client connected from IP: 127.0.0.1, Port: 52047
+2024-10-04 16:00:57.635 - Client Connection Info: Remote IP: /127.0.0.1:52047, Local Port: 3000, Is Connected: true
+2024-10-04 16:00:57.639 - Received request from 127.0.0.1:52047 - PUT:USA:Washington DC
+2024-10-04 16:00:57.639 - PUT operation - Key: USA, Value: Washington DC
+2024-10-04 16:00:57.639 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.641 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.645 - Received request from 127.0.0.1:52047 - PUT:France:Paris
+2024-10-04 16:00:57.645 - PUT operation - Key: France, Value: Paris
+2024-10-04 16:00:57.645 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.645 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.646 - Received request from 127.0.0.1:52047 - PUT:Germany:Berlin
+2024-10-04 16:00:57.646 - PUT operation - Key: Germany, Value: Berlin
+2024-10-04 16:00:57.646 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.646 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.646 - Received request from 127.0.0.1:52047 - PUT:Japan:Tokyo
+2024-10-04 16:00:57.647 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-04 16:00:57.647 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.647 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.647 - Received request from 127.0.0.1:52047 - PUT:Canada:Ottawa
+2024-10-04 16:00:57.647 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-04 16:00:57.647 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.648 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.648 - Received request from 127.0.0.1:52047 - PUT:India:New Delhi
+2024-10-04 16:00:57.648 - PUT operation - Key: India, Value: New Delhi
+2024-10-04 16:00:57.648 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.649 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.649 - Received request from 127.0.0.1:52047 - PUT:Brazil:Brasilia
+2024-10-04 16:00:57.649 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-04 16:00:57.649 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.649 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.650 - Received request from 127.0.0.1:52047 - PUT:Australia:Canberra
+2024-10-04 16:00:57.650 - PUT operation - Key: Australia, Value: Canberra
+2024-10-04 16:00:57.650 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.650 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.650 - Received request from 127.0.0.1:52047 - PUT:Mexico:Mexico City
+2024-10-04 16:00:57.651 - PUT operation - Key: Mexico, Value: Mexico City
+2024-10-04 16:00:57.651 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.651 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.651 - Received request from 127.0.0.1:52047 - PUT:Russia:Moscow
+2024-10-04 16:00:57.651 - PUT operation - Key: Russia, Value: Moscow
+2024-10-04 16:00:57.651 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.651 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.651 - Received request from 127.0.0.1:52047 - PUT:Tesla:Electric Car
+2024-10-04 16:00:57.652 - PUT operation - Key: Tesla, Value: Electric Car
+2024-10-04 16:00:57.652 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.652 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.652 - Received request from 127.0.0.1:52047 - PUT:Apple:Technology
+2024-10-04 16:00:57.652 - PUT operation - Key: Apple, Value: Technology
+2024-10-04 16:00:57.652 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.652 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.653 - Received request from 127.0.0.1:52047 - PUT:Nike:Sportswear
+2024-10-04 16:00:57.653 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-04 16:00:57.653 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.653 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.653 - Received request from 127.0.0.1:52047 - PUT:Amazon:E-commerce
+2024-10-04 16:00:57.653 - PUT operation - Key: Amazon, Value: E-commerce
+2024-10-04 16:00:57.653 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.653 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.654 - Received request from 127.0.0.1:52047 - PUT:Coca-Cola:Beverage
+2024-10-04 16:00:57.654 - PUT operation - Key: Coca-Cola, Value: Beverage
+2024-10-04 16:00:57.654 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.654 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.655 - Received request from 127.0.0.1:52047 - PUT:Google:Search Engine
+2024-10-04 16:00:57.655 - PUT operation - Key: Google, Value: Search Engine
+2024-10-04 16:00:57.655 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.655 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.656 - Received request from 127.0.0.1:52047 - PUT:Microsoft:Software
+2024-10-04 16:00:57.656 - PUT operation - Key: Microsoft, Value: Software
+2024-10-04 16:00:57.656 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.656 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.656 - Received request from 127.0.0.1:52047 - PUT:BMW:Automobile
+2024-10-04 16:00:57.656 - PUT operation - Key: BMW, Value: Automobile
+2024-10-04 16:00:57.657 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.657 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.657 - Received request from 127.0.0.1:52047 - PUT:Starbucks:Coffee
+2024-10-04 16:00:57.657 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-04 16:00:57.657 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.657 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.658 - Received request from 127.0.0.1:52047 - PUT:Samsung:Electronics
+2024-10-04 16:00:57.658 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-04 16:00:57.658 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.658 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.658 - Received request from 127.0.0.1:52047 - GET:USA
+2024-10-04 16:00:57.659 - GET operation - Key: USA, Value: Washington DC
+2024-10-04 16:00:57.659 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.659 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.659 - Received request from 127.0.0.1:52047 - GET:France
+2024-10-04 16:00:57.659 - GET operation - Key: France, Value: Paris
+2024-10-04 16:00:57.659 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.660 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.660 - Received request from 127.0.0.1:52047 - GET:Germany
+2024-10-04 16:00:57.660 - GET operation - Key: Germany, Value: Berlin
+2024-10-04 16:00:57.660 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.660 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.661 - Received request from 127.0.0.1:52047 - GET:Japan
+2024-10-04 16:00:57.661 - GET operation - Key: Japan, Value: Tokyo
+2024-10-04 16:00:57.661 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.661 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.661 - Received request from 127.0.0.1:52047 - GET:Canada
+2024-10-04 16:00:57.661 - GET operation - Key: Canada, Value: Ottawa
+2024-10-04 16:00:57.661 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.662 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.662 - Received request from 127.0.0.1:52047 - DELETE:USA
+2024-10-04 16:00:57.664 - ContainsKey operation - Key: USA exists in the store.
+2024-10-04 16:00:57.665 - DELETE operation - Key: USA removed
+2024-10-04 16:00:57.665 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.665 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.666 - Received request from 127.0.0.1:52047 - DELETE:France
+2024-10-04 16:00:57.666 - ContainsKey operation - Key: France exists in the store.
+2024-10-04 16:00:57.666 - DELETE operation - Key: France removed
+2024-10-04 16:00:57.666 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.666 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.666 - Received request from 127.0.0.1:52047 - DELETE:Germany
+2024-10-04 16:00:57.666 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-04 16:00:57.666 - DELETE operation - Key: Germany removed
+2024-10-04 16:00:57.667 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.667 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.667 - Received request from 127.0.0.1:52047 - DELETE:Japan
+2024-10-04 16:00:57.667 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-04 16:00:57.667 - DELETE operation - Key: Japan removed
+2024-10-04 16:00:57.667 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.667 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.667 - Received request from 127.0.0.1:52047 - DELETE:Canada
+2024-10-04 16:00:57.668 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-04 16:00:57.668 - DELETE operation - Key: Canada removed
+2024-10-04 16:00:57.668 - ERROR: Received malformed request from client 127.0.0.1:52047
+2024-10-04 16:00:57.668 - Sent response to 127.0.0.1:52047 - Error: Malformed request
+2024-10-04 16:00:57.670 - TCP client disconnected from 127.0.0.1:52047
+2024-10-04 16:00:57.671 - TCP client connected from IP: 127.0.0.1, Port: 52048
+2024-10-04 16:00:57.671 - Client Connection Info: Remote IP: /127.0.0.1:52048, Local Port: 3000, Is Connected: true
+2024-10-04 16:01:11.299 - Received request from 127.0.0.1:52048 - PUT:sun:pot
+2024-10-04 16:01:11.299 - PUT operation - Key: sun, Value: pot
+2024-10-04 16:01:11.299 - ERROR: Received malformed request from client 127.0.0.1:52048
+2024-10-04 16:01:11.299 - Sent response to 127.0.0.1:52048 - Error: Malformed request
+2024-10-04 16:03:38.521 - Received request from 127.0.0.1:52048 - PUT:sud:pot
+2024-10-04 16:03:38.522 - PUT operation - Key: sud, Value: pot
+2024-10-04 16:03:38.522 - ERROR: Received malformed request from client 127.0.0.1:52048
+2024-10-04 16:03:38.522 - Sent response to 127.0.0.1:52048 - Error: Malformed request
+2024-10-04 16:04:10.141 - Server started on port::3000::Server protocol::TCP
+2024-10-04 16:04:10.157 - TCP Server started on port 3000
+2024-10-04 16:04:17.433 - TCP client connected from IP: 127.0.0.1, Port: 52058
+2024-10-04 16:04:17.438 - Client Connection Info: Remote IP: /127.0.0.1:52058, Local Port: 3000, Is Connected: true
+2024-10-04 16:04:17.443 - Received request from 127.0.0.1:52058 - PUT:USA:Washington DC
+2024-10-04 16:04:17.443 - PUT operation - Key: USA, Value: Washington DC
+2024-10-04 16:04:17.444 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.445 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.449 - Received request from 127.0.0.1:52058 - PUT:France:Paris
+2024-10-04 16:04:17.449 - PUT operation - Key: France, Value: Paris
+2024-10-04 16:04:17.450 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.450 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.450 - Received request from 127.0.0.1:52058 - PUT:Germany:Berlin
+2024-10-04 16:04:17.450 - PUT operation - Key: Germany, Value: Berlin
+2024-10-04 16:04:17.450 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.450 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.451 - Received request from 127.0.0.1:52058 - PUT:Japan:Tokyo
+2024-10-04 16:04:17.451 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-04 16:04:17.451 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.451 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.451 - Received request from 127.0.0.1:52058 - PUT:Canada:Ottawa
+2024-10-04 16:04:17.451 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-04 16:04:17.451 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.452 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.452 - Received request from 127.0.0.1:52058 - PUT:India:New Delhi
+2024-10-04 16:04:17.452 - PUT operation - Key: India, Value: New Delhi
+2024-10-04 16:04:17.452 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.452 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.452 - Received request from 127.0.0.1:52058 - PUT:Brazil:Brasilia
+2024-10-04 16:04:17.453 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-04 16:04:17.453 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.453 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.453 - Received request from 127.0.0.1:52058 - PUT:Australia:Canberra
+2024-10-04 16:04:17.453 - PUT operation - Key: Australia, Value: Canberra
+2024-10-04 16:04:17.453 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.453 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.454 - Received request from 127.0.0.1:52058 - PUT:Mexico:Mexico City
+2024-10-04 16:04:17.454 - PUT operation - Key: Mexico, Value: Mexico City
+2024-10-04 16:04:17.454 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.454 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.454 - Received request from 127.0.0.1:52058 - PUT:Russia:Moscow
+2024-10-04 16:04:17.454 - PUT operation - Key: Russia, Value: Moscow
+2024-10-04 16:04:17.454 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.455 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.455 - Received request from 127.0.0.1:52058 - PUT:Tesla:Electric Car
+2024-10-04 16:04:17.455 - PUT operation - Key: Tesla, Value: Electric Car
+2024-10-04 16:04:17.455 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.455 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.456 - Received request from 127.0.0.1:52058 - PUT:Apple:Technology
+2024-10-04 16:04:17.456 - PUT operation - Key: Apple, Value: Technology
+2024-10-04 16:04:17.456 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.456 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.456 - Received request from 127.0.0.1:52058 - PUT:Nike:Sportswear
+2024-10-04 16:04:17.456 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-04 16:04:17.456 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.456 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.457 - Received request from 127.0.0.1:52058 - PUT:Amazon:E-commerce
+2024-10-04 16:04:17.457 - PUT operation - Key: Amazon, Value: E-commerce
+2024-10-04 16:04:17.457 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.457 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.457 - Received request from 127.0.0.1:52058 - PUT:Coca-Cola:Beverage
+2024-10-04 16:04:17.458 - PUT operation - Key: Coca-Cola, Value: Beverage
+2024-10-04 16:04:17.458 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.458 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.458 - Received request from 127.0.0.1:52058 - PUT:Google:Search Engine
+2024-10-04 16:04:17.458 - PUT operation - Key: Google, Value: Search Engine
+2024-10-04 16:04:17.458 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.459 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.459 - Received request from 127.0.0.1:52058 - PUT:Microsoft:Software
+2024-10-04 16:04:17.459 - PUT operation - Key: Microsoft, Value: Software
+2024-10-04 16:04:17.459 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.459 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.460 - Received request from 127.0.0.1:52058 - PUT:BMW:Automobile
+2024-10-04 16:04:17.460 - PUT operation - Key: BMW, Value: Automobile
+2024-10-04 16:04:17.460 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.460 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.460 - Received request from 127.0.0.1:52058 - PUT:Starbucks:Coffee
+2024-10-04 16:04:17.460 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-04 16:04:17.460 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.461 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.461 - Received request from 127.0.0.1:52058 - PUT:Samsung:Electronics
+2024-10-04 16:04:17.461 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-04 16:04:17.462 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.462 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.462 - Received request from 127.0.0.1:52058 - GET:USA
+2024-10-04 16:04:17.463 - GET operation - Key: USA, Value: Washington DC
+2024-10-04 16:04:17.463 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.463 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.463 - Received request from 127.0.0.1:52058 - GET:France
+2024-10-04 16:04:17.463 - GET operation - Key: France, Value: Paris
+2024-10-04 16:04:17.463 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.464 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.464 - Received request from 127.0.0.1:52058 - GET:Germany
+2024-10-04 16:04:17.464 - GET operation - Key: Germany, Value: Berlin
+2024-10-04 16:04:17.464 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.464 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.465 - Received request from 127.0.0.1:52058 - GET:Japan
+2024-10-04 16:04:17.465 - GET operation - Key: Japan, Value: Tokyo
+2024-10-04 16:04:17.465 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.465 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.466 - Received request from 127.0.0.1:52058 - GET:Canada
+2024-10-04 16:04:17.466 - GET operation - Key: Canada, Value: Ottawa
+2024-10-04 16:04:17.466 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.466 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.466 - Received request from 127.0.0.1:52058 - DELETE:USA
+2024-10-04 16:04:17.468 - ContainsKey operation - Key: USA exists in the store.
+2024-10-04 16:04:17.468 - DELETE operation - Key: USA removed
+2024-10-04 16:04:17.468 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.468 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.469 - Received request from 127.0.0.1:52058 - DELETE:France
+2024-10-04 16:04:17.469 - ContainsKey operation - Key: France exists in the store.
+2024-10-04 16:04:17.469 - DELETE operation - Key: France removed
+2024-10-04 16:04:17.469 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.469 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.470 - Received request from 127.0.0.1:52058 - DELETE:Germany
+2024-10-04 16:04:17.470 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-04 16:04:17.470 - DELETE operation - Key: Germany removed
+2024-10-04 16:04:17.470 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.470 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.470 - Received request from 127.0.0.1:52058 - DELETE:Japan
+2024-10-04 16:04:17.471 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-04 16:04:17.471 - DELETE operation - Key: Japan removed
+2024-10-04 16:04:17.471 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.471 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.471 - Received request from 127.0.0.1:52058 - DELETE:Canada
+2024-10-04 16:04:17.471 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-04 16:04:17.471 - DELETE operation - Key: Canada removed
+2024-10-04 16:04:17.471 - ERROR: Received malformed request from client 127.0.0.1:52058
+2024-10-04 16:04:17.471 - Sent response to 127.0.0.1:52058 - Error: Malformed request
+2024-10-04 16:04:17.474 - TCP client disconnected from 127.0.0.1:52058
+2024-10-04 16:04:17.475 - TCP client connected from IP: 127.0.0.1, Port: 52059
+2024-10-04 16:04:17.475 - Client Connection Info: Remote IP: /127.0.0.1:52059, Local Port: 3000, Is Connected: true
+2024-10-04 16:06:05.338 - Server started on port::3000::Server protocol::TCP
+2024-10-04 16:06:05.355 - TCP Server started on port 3000
+2024-10-04 16:06:12.835 - TCP client connected from IP: 127.0.0.1, Port: 52069
+2024-10-04 16:06:12.841 - Client Connection Info: Remote IP: /127.0.0.1:52069, Local Port: 3000, Is Connected: true
+2024-10-04 16:06:12.846 - Received request from 127.0.0.1:52069 - PUT:USA:Washington DC
+2024-10-04 16:06:12.846 - PUT operation - Key: USA, Value: Washington DC
+2024-10-04 16:06:12.847 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.848 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.852 - Received request from 127.0.0.1:52069 - PUT:France:Paris
+2024-10-04 16:06:12.852 - PUT operation - Key: France, Value: Paris
+2024-10-04 16:06:12.852 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.852 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.853 - Received request from 127.0.0.1:52069 - PUT:Germany:Berlin
+2024-10-04 16:06:12.853 - PUT operation - Key: Germany, Value: Berlin
+2024-10-04 16:06:12.853 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.854 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.854 - Received request from 127.0.0.1:52069 - PUT:Japan:Tokyo
+2024-10-04 16:06:12.854 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-04 16:06:12.854 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.854 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.855 - Received request from 127.0.0.1:52069 - PUT:Canada:Ottawa
+2024-10-04 16:06:12.855 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-04 16:06:12.855 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.855 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.855 - Received request from 127.0.0.1:52069 - PUT:India:New Delhi
+2024-10-04 16:06:12.855 - PUT operation - Key: India, Value: New Delhi
+2024-10-04 16:06:12.856 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.856 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.856 - Received request from 127.0.0.1:52069 - PUT:Brazil:Brasilia
+2024-10-04 16:06:12.856 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-04 16:06:12.856 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.856 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.857 - Received request from 127.0.0.1:52069 - PUT:Australia:Canberra
+2024-10-04 16:06:12.857 - PUT operation - Key: Australia, Value: Canberra
+2024-10-04 16:06:12.857 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.857 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.857 - Received request from 127.0.0.1:52069 - PUT:Mexico:Mexico City
+2024-10-04 16:06:12.857 - PUT operation - Key: Mexico, Value: Mexico City
+2024-10-04 16:06:12.857 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.858 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.858 - Received request from 127.0.0.1:52069 - PUT:Russia:Moscow
+2024-10-04 16:06:12.858 - PUT operation - Key: Russia, Value: Moscow
+2024-10-04 16:06:12.858 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.858 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.858 - Received request from 127.0.0.1:52069 - PUT:Tesla:Electric Car
+2024-10-04 16:06:12.859 - PUT operation - Key: Tesla, Value: Electric Car
+2024-10-04 16:06:12.859 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.859 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.859 - Received request from 127.0.0.1:52069 - PUT:Apple:Technology
+2024-10-04 16:06:12.859 - PUT operation - Key: Apple, Value: Technology
+2024-10-04 16:06:12.859 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.859 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.860 - Received request from 127.0.0.1:52069 - PUT:Nike:Sportswear
+2024-10-04 16:06:12.860 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-04 16:06:12.860 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.860 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.860 - Received request from 127.0.0.1:52069 - PUT:Amazon:E-commerce
+2024-10-04 16:06:12.860 - PUT operation - Key: Amazon, Value: E-commerce
+2024-10-04 16:06:12.861 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.861 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.861 - Received request from 127.0.0.1:52069 - PUT:Coca-Cola:Beverage
+2024-10-04 16:06:12.861 - PUT operation - Key: Coca-Cola, Value: Beverage
+2024-10-04 16:06:12.861 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.861 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.862 - Received request from 127.0.0.1:52069 - PUT:Google:Search Engine
+2024-10-04 16:06:12.862 - PUT operation - Key: Google, Value: Search Engine
+2024-10-04 16:06:12.862 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.862 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.863 - Received request from 127.0.0.1:52069 - PUT:Microsoft:Software
+2024-10-04 16:06:12.863 - PUT operation - Key: Microsoft, Value: Software
+2024-10-04 16:06:12.863 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.863 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.863 - Received request from 127.0.0.1:52069 - PUT:BMW:Automobile
+2024-10-04 16:06:12.863 - PUT operation - Key: BMW, Value: Automobile
+2024-10-04 16:06:12.863 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.864 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.864 - Received request from 127.0.0.1:52069 - PUT:Starbucks:Coffee
+2024-10-04 16:06:12.864 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-04 16:06:12.864 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.864 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.864 - Received request from 127.0.0.1:52069 - PUT:Samsung:Electronics
+2024-10-04 16:06:12.865 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-04 16:06:12.865 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.865 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.865 - Received request from 127.0.0.1:52069 - GET:USA
+2024-10-04 16:06:12.865 - GET operation - Key: USA, Value: Washington DC
+2024-10-04 16:06:12.866 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.866 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.867 - Received request from 127.0.0.1:52069 - GET:France
+2024-10-04 16:06:12.867 - GET operation - Key: France, Value: Paris
+2024-10-04 16:06:12.867 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.868 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.868 - Received request from 127.0.0.1:52069 - GET:Germany
+2024-10-04 16:06:12.868 - GET operation - Key: Germany, Value: Berlin
+2024-10-04 16:06:12.868 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.868 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.868 - Received request from 127.0.0.1:52069 - GET:Japan
+2024-10-04 16:06:12.868 - GET operation - Key: Japan, Value: Tokyo
+2024-10-04 16:06:12.869 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.869 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.869 - Received request from 127.0.0.1:52069 - GET:Canada
+2024-10-04 16:06:12.869 - GET operation - Key: Canada, Value: Ottawa
+2024-10-04 16:06:12.869 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.869 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.870 - Received request from 127.0.0.1:52069 - DELETE:USA
+2024-10-04 16:06:12.871 - ContainsKey operation - Key: USA exists in the store.
+2024-10-04 16:06:12.871 - DELETE operation - Key: USA removed
+2024-10-04 16:06:12.871 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.872 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.872 - Received request from 127.0.0.1:52069 - DELETE:France
+2024-10-04 16:06:12.872 - ContainsKey operation - Key: France exists in the store.
+2024-10-04 16:06:12.872 - DELETE operation - Key: France removed
+2024-10-04 16:06:12.872 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.873 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.873 - Received request from 127.0.0.1:52069 - DELETE:Germany
+2024-10-04 16:06:12.873 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-04 16:06:12.873 - DELETE operation - Key: Germany removed
+2024-10-04 16:06:12.873 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.873 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.873 - Received request from 127.0.0.1:52069 - DELETE:Japan
+2024-10-04 16:06:12.874 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-04 16:06:12.874 - DELETE operation - Key: Japan removed
+2024-10-04 16:06:12.874 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.874 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.874 - Received request from 127.0.0.1:52069 - DELETE:Canada
+2024-10-04 16:06:12.874 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-04 16:06:12.874 - DELETE operation - Key: Canada removed
+2024-10-04 16:06:12.874 - ERROR: Received malformed request from client 127.0.0.1:52069
+2024-10-04 16:06:12.874 - Sent response to 127.0.0.1:52069 - Error: Malformed request
+2024-10-04 16:06:12.877 - TCP client disconnected from 127.0.0.1:52069
+2024-10-04 16:06:12.877 - TCP client connected from IP: 127.0.0.1, Port: 52070
+2024-10-04 16:06:12.878 - Client Connection Info: Remote IP: /127.0.0.1:52070, Local Port: 3000, Is Connected: true
+2024-10-04 16:07:46.159 - Server started on port::3000::Server protocol::TCP
+2024-10-04 16:07:46.175 - TCP Server started on port 3000
+2024-10-04 16:07:54.403 - TCP client connected from IP: 127.0.0.1, Port: 52094
+2024-10-04 16:07:54.410 - Client Connection Info: Remote IP: /127.0.0.1:52094, Local Port: 3000, Is Connected: true
+2024-10-04 16:07:54.414 - Received request from 127.0.0.1:52094 - PUT:USA:Washington DC
+2024-10-04 16:07:54.415 - PUT operation - Key: USA, Value: Washington DC
+2024-10-04 16:07:54.416 - Sent response to 127.0.0.1:52094 - PUT successful for key: USA
+2024-10-04 16:07:54.420 - Received request from 127.0.0.1:52094 - PUT:France:Paris
+2024-10-04 16:07:54.420 - PUT operation - Key: France, Value: Paris
+2024-10-04 16:07:54.420 - Sent response to 127.0.0.1:52094 - PUT successful for key: France
+2024-10-04 16:07:54.421 - Received request from 127.0.0.1:52094 - PUT:Germany:Berlin
+2024-10-04 16:07:54.421 - PUT operation - Key: Germany, Value: Berlin
+2024-10-04 16:07:54.421 - Sent response to 127.0.0.1:52094 - PUT successful for key: Germany
+2024-10-04 16:07:54.421 - Received request from 127.0.0.1:52094 - PUT:Japan:Tokyo
+2024-10-04 16:07:54.421 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-04 16:07:54.421 - Sent response to 127.0.0.1:52094 - PUT successful for key: Japan
+2024-10-04 16:07:54.422 - Received request from 127.0.0.1:52094 - PUT:Canada:Ottawa
+2024-10-04 16:07:54.422 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-04 16:07:54.422 - Sent response to 127.0.0.1:52094 - PUT successful for key: Canada
+2024-10-04 16:07:54.422 - Received request from 127.0.0.1:52094 - PUT:India:New Delhi
+2024-10-04 16:07:54.422 - PUT operation - Key: India, Value: New Delhi
+2024-10-04 16:07:54.423 - Sent response to 127.0.0.1:52094 - PUT successful for key: India
+2024-10-04 16:07:54.423 - Received request from 127.0.0.1:52094 - PUT:Brazil:Brasilia
+2024-10-04 16:07:54.423 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-04 16:07:54.424 - Sent response to 127.0.0.1:52094 - PUT successful for key: Brazil
+2024-10-04 16:07:54.424 - Received request from 127.0.0.1:52094 - PUT:Australia:Canberra
+2024-10-04 16:07:54.424 - PUT operation - Key: Australia, Value: Canberra
+2024-10-04 16:07:54.425 - Sent response to 127.0.0.1:52094 - PUT successful for key: Australia
+2024-10-04 16:07:54.425 - Received request from 127.0.0.1:52094 - PUT:Mexico:Mexico City
+2024-10-04 16:07:54.425 - PUT operation - Key: Mexico, Value: Mexico City
+2024-10-04 16:07:54.425 - Sent response to 127.0.0.1:52094 - PUT successful for key: Mexico
+2024-10-04 16:07:54.426 - Received request from 127.0.0.1:52094 - PUT:Russia:Moscow
+2024-10-04 16:07:54.426 - PUT operation - Key: Russia, Value: Moscow
+2024-10-04 16:07:54.426 - Sent response to 127.0.0.1:52094 - PUT successful for key: Russia
+2024-10-04 16:07:54.426 - Received request from 127.0.0.1:52094 - PUT:Tesla:Electric Car
+2024-10-04 16:07:54.427 - PUT operation - Key: Tesla, Value: Electric Car
+2024-10-04 16:07:54.427 - Sent response to 127.0.0.1:52094 - PUT successful for key: Tesla
+2024-10-04 16:07:54.427 - Received request from 127.0.0.1:52094 - PUT:Apple:Technology
+2024-10-04 16:07:54.427 - PUT operation - Key: Apple, Value: Technology
+2024-10-04 16:07:54.427 - Sent response to 127.0.0.1:52094 - PUT successful for key: Apple
+2024-10-04 16:07:54.428 - Received request from 127.0.0.1:52094 - PUT:Nike:Sportswear
+2024-10-04 16:07:54.428 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-04 16:07:54.428 - Sent response to 127.0.0.1:52094 - PUT successful for key: Nike
+2024-10-04 16:07:54.428 - Received request from 127.0.0.1:52094 - PUT:Amazon:E-commerce
+2024-10-04 16:07:54.428 - PUT operation - Key: Amazon, Value: E-commerce
+2024-10-04 16:07:54.429 - Sent response to 127.0.0.1:52094 - PUT successful for key: Amazon
+2024-10-04 16:07:54.429 - Received request from 127.0.0.1:52094 - PUT:Coca-Cola:Beverage
+2024-10-04 16:07:54.429 - PUT operation - Key: Coca-Cola, Value: Beverage
+2024-10-04 16:07:54.429 - Sent response to 127.0.0.1:52094 - PUT successful for key: Coca-Cola
+2024-10-04 16:07:54.430 - Received request from 127.0.0.1:52094 - PUT:Google:Search Engine
+2024-10-04 16:07:54.430 - PUT operation - Key: Google, Value: Search Engine
+2024-10-04 16:07:54.430 - Sent response to 127.0.0.1:52094 - PUT successful for key: Google
+2024-10-04 16:07:54.430 - Received request from 127.0.0.1:52094 - PUT:Microsoft:Software
+2024-10-04 16:07:54.430 - PUT operation - Key: Microsoft, Value: Software
+2024-10-04 16:07:54.431 - Sent response to 127.0.0.1:52094 - PUT successful for key: Microsoft
+2024-10-04 16:07:54.431 - Received request from 127.0.0.1:52094 - PUT:BMW:Automobile
+2024-10-04 16:07:54.431 - PUT operation - Key: BMW, Value: Automobile
+2024-10-04 16:07:54.431 - Sent response to 127.0.0.1:52094 - PUT successful for key: BMW
+2024-10-04 16:07:54.431 - Received request from 127.0.0.1:52094 - PUT:Starbucks:Coffee
+2024-10-04 16:07:54.432 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-04 16:07:54.432 - Sent response to 127.0.0.1:52094 - PUT successful for key: Starbucks
+2024-10-04 16:07:54.432 - Received request from 127.0.0.1:52094 - PUT:Samsung:Electronics
+2024-10-04 16:07:54.432 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-04 16:07:54.432 - Sent response to 127.0.0.1:52094 - PUT successful for key: Samsung
+2024-10-04 16:07:54.433 - Received request from 127.0.0.1:52094 - GET:USA
+2024-10-04 16:07:54.433 - GET operation - Key: USA, Value: Washington DC
+2024-10-04 16:07:54.433 - Sent response to 127.0.0.1:52094 - GET successful: Washington DC
+2024-10-04 16:07:54.434 - Received request from 127.0.0.1:52094 - GET:France
+2024-10-04 16:07:54.434 - GET operation - Key: France, Value: Paris
+2024-10-04 16:07:54.434 - Sent response to 127.0.0.1:52094 - GET successful: Paris
+2024-10-04 16:07:54.434 - Received request from 127.0.0.1:52094 - GET:Germany
+2024-10-04 16:07:54.434 - GET operation - Key: Germany, Value: Berlin
+2024-10-04 16:07:54.435 - Sent response to 127.0.0.1:52094 - GET successful: Berlin
+2024-10-04 16:07:54.435 - Received request from 127.0.0.1:52094 - GET:Japan
+2024-10-04 16:07:54.435 - GET operation - Key: Japan, Value: Tokyo
+2024-10-04 16:07:54.435 - Sent response to 127.0.0.1:52094 - GET successful: Tokyo
+2024-10-04 16:07:54.435 - Received request from 127.0.0.1:52094 - GET:Canada
+2024-10-04 16:07:54.436 - GET operation - Key: Canada, Value: Ottawa
+2024-10-04 16:07:54.436 - Sent response to 127.0.0.1:52094 - GET successful: Ottawa
+2024-10-04 16:07:54.436 - Received request from 127.0.0.1:52094 - DELETE:USA
+2024-10-04 16:07:54.438 - ContainsKey operation - Key: USA exists in the store.
+2024-10-04 16:07:54.439 - DELETE operation - Key: USA removed
+2024-10-04 16:07:54.439 - Sent response to 127.0.0.1:52094 - DELETE successful for key: USA
+2024-10-04 16:07:54.440 - Received request from 127.0.0.1:52094 - DELETE:France
+2024-10-04 16:07:54.440 - ContainsKey operation - Key: France exists in the store.
+2024-10-04 16:07:54.440 - DELETE operation - Key: France removed
+2024-10-04 16:07:54.440 - Sent response to 127.0.0.1:52094 - DELETE successful for key: France
+2024-10-04 16:07:54.440 - Received request from 127.0.0.1:52094 - DELETE:Germany
+2024-10-04 16:07:54.441 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-04 16:07:54.441 - DELETE operation - Key: Germany removed
+2024-10-04 16:07:54.441 - Sent response to 127.0.0.1:52094 - DELETE successful for key: Germany
+2024-10-04 16:07:54.442 - Received request from 127.0.0.1:52094 - DELETE:Japan
+2024-10-04 16:07:54.442 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-04 16:07:54.442 - DELETE operation - Key: Japan removed
+2024-10-04 16:07:54.442 - Sent response to 127.0.0.1:52094 - DELETE successful for key: Japan
+2024-10-04 16:07:54.443 - Received request from 127.0.0.1:52094 - DELETE:Canada
+2024-10-04 16:07:54.443 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-04 16:07:54.443 - DELETE operation - Key: Canada removed
+2024-10-04 16:07:54.443 - Sent response to 127.0.0.1:52094 - DELETE successful for key: Canada
+2024-10-04 16:07:54.446 - TCP client disconnected from 127.0.0.1:52094
+2024-10-04 16:07:54.446 - TCP client connected from IP: 127.0.0.1, Port: 52095
+2024-10-04 16:07:54.446 - Client Connection Info: Remote IP: /127.0.0.1:52095, Local Port: 3000, Is Connected: true
+2024-10-04 16:08:08.840 - Received request from 127.0.0.1:52095 - PUT:my:hat
+2024-10-04 16:08:08.841 - PUT operation - Key: my, Value: hat
+2024-10-04 16:08:08.841 - Sent response to 127.0.0.1:52095 - PUT successful for key: my
+2024-10-04 16:08:11.962 - Received request from 127.0.0.1:52095 - GET:my
+2024-10-04 16:08:11.963 - GET operation - Key: my, Value: hat
+2024-10-04 16:08:11.963 - Sent response to 127.0.0.1:52095 - GET successful: hat
+2024-10-04 16:08:17.169 - Received request from 127.0.0.1:52095 - DELETE:my
+2024-10-04 16:08:17.170 - ContainsKey operation - Key: my exists in the store.
+2024-10-04 16:08:17.170 - DELETE operation - Key: my removed
+2024-10-04 16:08:17.170 - Sent response to 127.0.0.1:52095 - DELETE successful for key: my
+2024-10-04 16:08:28.273 - Received request from 127.0.0.1:52095 - DELETE:my
+2024-10-04 16:08:28.274 - ContainsKey operation - Key: my does not exist in the store.
+2024-10-04 16:08:28.274 - ERROR: DELETE failed for key: my - Key does not exist::PORT3000
+2024-10-04 16:08:28.275 - Sent response to 127.0.0.1:52095 - ERROR: Key does not exist
+2024-10-04 16:08:34.154 - Received request from 127.0.0.1:52095 - DELETE:car
+2024-10-04 16:08:34.155 - ContainsKey operation - Key: car does not exist in the store.
+2024-10-04 16:08:34.155 - ERROR: DELETE failed for key: car - Key does not exist::PORT3000
+2024-10-04 16:08:34.155 - Sent response to 127.0.0.1:52095 - ERROR: Key does not exist
+2024-10-04 16:08:37.894 - TCP client disconnected from 127.0.0.1:52095
+2024-10-04 16:10:46.126 - Server started on port::3000::Server protocol::UDP
+2024-10-04 16:10:46.151 - UDP Server started on port 3000
+2024-10-04 16:10:54.355 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.355 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.356 - ERROR: Received malformed UDP request from client 127.0.0.1:60193
+2024-10-04 16:10:54.360 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - Error: Malformed request
+2024-10-04 16:10:54.360 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.361 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.361 - PUT operation - Key: France, Value: Paris
+2024-10-04 16:10:54.361 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: France
+2024-10-04 16:10:54.362 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.362 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.362 - PUT operation - Key: Germany, Value: Berlin
+2024-10-04 16:10:54.362 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Germany
+2024-10-04 16:10:54.363 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.363 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.363 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-04 16:10:54.363 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Japan
+2024-10-04 16:10:54.364 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.364 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.364 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-04 16:10:54.364 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Canada
+2024-10-04 16:10:54.365 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.365 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.365 - ERROR: Received malformed UDP request from client 127.0.0.1:60193
+2024-10-04 16:10:54.365 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - Error: Malformed request
+2024-10-04 16:10:54.366 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.366 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.366 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-04 16:10:54.366 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Brazil
+2024-10-04 16:10:54.367 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.367 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.367 - PUT operation - Key: Australia, Value: Canberra
+2024-10-04 16:10:54.367 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Australia
+2024-10-04 16:10:54.367 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.367 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.368 - ERROR: Received malformed UDP request from client 127.0.0.1:60193
+2024-10-04 16:10:54.368 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - Error: Malformed request
+2024-10-04 16:10:54.368 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.368 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.368 - PUT operation - Key: Russia, Value: Moscow
+2024-10-04 16:10:54.369 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Russia
+2024-10-04 16:10:54.369 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.369 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.369 - ERROR: Received malformed UDP request from client 127.0.0.1:60193
+2024-10-04 16:10:54.369 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - Error: Malformed request
+2024-10-04 16:10:54.370 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.370 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.370 - PUT operation - Key: Apple, Value: Technology
+2024-10-04 16:10:54.370 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Apple
+2024-10-04 16:10:54.370 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.371 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.371 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-04 16:10:54.371 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Nike
+2024-10-04 16:10:54.371 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.372 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.372 - ERROR: Received malformed UDP request from client 127.0.0.1:60193
+2024-10-04 16:10:54.372 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - Error: Malformed request
+2024-10-04 16:10:54.372 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.373 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.373 - ERROR: Received malformed UDP request from client 127.0.0.1:60193
+2024-10-04 16:10:54.373 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - Error: Malformed request
+2024-10-04 16:10:54.373 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.373 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.374 - ERROR: Received malformed UDP request from client 127.0.0.1:60193
+2024-10-04 16:10:54.374 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - Error: Malformed request
+2024-10-04 16:10:54.374 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.374 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.375 - PUT operation - Key: Microsoft, Value: Software
+2024-10-04 16:10:54.375 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Microsoft
+2024-10-04 16:10:54.375 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.375 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.376 - PUT operation - Key: BMW, Value: Automobile
+2024-10-04 16:10:54.376 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: BMW
+2024-10-04 16:10:54.376 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.376 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.376 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-04 16:10:54.377 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Starbucks
+2024-10-04 16:10:54.377 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.377 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.377 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-04 16:10:54.377 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - PUT successful for key: Samsung
+2024-10-04 16:10:54.378 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.378 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.381 - GET operation - Key: USA, Value not found
+2024-10-04 16:10:54.381 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - ERROR: Key not found
+2024-10-04 16:10:54.382 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.382 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.383 - GET operation - Key: France, Value: Paris
+2024-10-04 16:10:54.383 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - GET successful: Paris
+2024-10-04 16:10:54.383 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.383 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.383 - GET operation - Key: Germany, Value: Berlin
+2024-10-04 16:10:54.383 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - GET successful: Berlin
+2024-10-04 16:10:54.384 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.384 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.384 - GET operation - Key: Japan, Value: Tokyo
+2024-10-04 16:10:54.384 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - GET successful: Tokyo
+2024-10-04 16:10:54.384 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.384 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.384 - GET operation - Key: Canada, Value: Ottawa
+2024-10-04 16:10:54.384 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - GET successful: Ottawa
+2024-10-04 16:10:54.385 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.385 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.385 - ContainsKey operation - Key: USA does not exist in the store.
+2024-10-04 16:10:54.385 - ERROR: DELETE failed for key: USA - Key does not exist::PORT3000
+2024-10-04 16:10:54.385 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - ERROR: Key does not exist
+2024-10-04 16:10:54.386 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.386 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.386 - ContainsKey operation - Key: France exists in the store.
+2024-10-04 16:10:54.386 - DELETE operation - Key: France removed
+2024-10-04 16:10:54.386 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - DELETE successful for key: France
+2024-10-04 16:10:54.386 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.386 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.386 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-04 16:10:54.387 - DELETE operation - Key: Germany removed
+2024-10-04 16:10:54.387 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - DELETE successful for key: Germany
+2024-10-04 16:10:54.387 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.387 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.387 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-04 16:10:54.387 - DELETE operation - Key: Japan removed
+2024-10-04 16:10:54.387 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - DELETE successful for key: Japan
+2024-10-04 16:10:54.388 - Received UDP request from IP: 127.0.0.1, Port: 60193
+2024-10-04 16:10:54.388 - Client Connection Info: Remote Address: /127.0.0.1:60193
+2024-10-04 16:10:54.388 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-04 16:10:54.388 - DELETE operation - Key: Canada removed
+2024-10-04 16:10:54.388 - Sent UDP response to IP: 127.0.0.1, Port: 60193 - DELETE successful for key: Canada
+2024-10-04 16:11:05.232 - Received UDP request from IP: 127.0.0.1, Port: 58744
+2024-10-04 16:11:05.232 - Client Connection Info: Remote Address: /127.0.0.1:58744
+2024-10-04 16:11:05.232 - PUT operation - Key: sud, Value: pat
+2024-10-04 16:11:05.232 - Sent UDP response to IP: 127.0.0.1, Port: 58744 - PUT successful for key: sud
+2024-10-04 16:11:09.495 - Received UDP request from IP: 127.0.0.1, Port: 58744
+2024-10-04 16:11:09.495 - Client Connection Info: Remote Address: /127.0.0.1:58744
+2024-10-04 16:11:09.495 - GET operation - Key: sud, Value: pat
+2024-10-04 16:11:09.496 - Sent UDP response to IP: 127.0.0.1, Port: 58744 - GET successful: pat
+2024-10-04 16:11:12.464 - Received UDP request from IP: 127.0.0.1, Port: 58744
+2024-10-04 16:11:12.464 - Client Connection Info: Remote Address: /127.0.0.1:58744
+2024-10-04 16:11:12.464 - GET operation - Key: pat, Value not found
+2024-10-04 16:11:12.465 - Sent UDP response to IP: 127.0.0.1, Port: 58744 - ERROR: Key not found
+2024-10-04 16:11:17.373 - Received UDP request from IP: 127.0.0.1, Port: 58744
+2024-10-04 16:11:17.373 - Client Connection Info: Remote Address: /127.0.0.1:58744
+2024-10-04 16:11:17.373 - ContainsKey operation - Key: pat does not exist in the store.
+2024-10-04 16:11:17.373 - ERROR: DELETE failed for key: pat - Key does not exist::PORT3000
+2024-10-04 16:11:17.374 - Sent UDP response to IP: 127.0.0.1, Port: 58744 - ERROR: Key does not exist
+2024-10-04 16:11:21.183 - Received UDP request from IP: 127.0.0.1, Port: 58744
+2024-10-04 16:11:21.183 - Client Connection Info: Remote Address: /127.0.0.1:58744
+2024-10-04 16:11:21.184 - ContainsKey operation - Key: sud exists in the store.
+2024-10-04 16:11:21.184 - DELETE operation - Key: sud removed
+2024-10-04 16:11:21.184 - Sent UDP response to IP: 127.0.0.1, Port: 58744 - DELETE successful for key: sud
+2024-10-04 16:17:41.555 - Server started on port::3000::Server protocol::UDP
+2024-10-04 16:17:41.578 - UDP Server started on port 3000
+2024-10-04 16:17:41.578 - PUT operation - Key: apple, Value: A fruit that is sweet and crisp
+2024-10-04 16:17:41.578 - PUT operation - Key: book, Value: A collection of pages with text or illustrations
+2024-10-04 16:17:41.578 - PUT operation - Key: car, Value: A vehicle used for transportation
+2024-10-04 16:17:41.579 - PUT operation - Key: dog, Value: A domestic animal known for loyalty
+2024-10-04 16:17:41.579 - PUT operation - Key: elephant, Value: A large mammal with a trunk
+2024-10-04 16:17:41.579 - PUT operation - Key: forest, Value: A large area covered chiefly with trees and undergrowth
+2024-10-04 16:17:41.579 - PUT operation - Key: guitar, Value: A stringed musical instrument
+2024-10-04 16:17:41.579 - PUT operation - Key: house, Value: A building for human habitation
+2024-10-04 16:17:41.579 - PUT operation - Key: island, Value: A piece of land surrounded by water
+2024-10-04 16:17:41.579 - PUT operation - Key: jacket, Value: An outer garment extending to the waist or hips
+2024-10-04 16:17:57.595 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.596 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.596 - ERROR: Received malformed UDP request from client 127.0.0.1:55151
+2024-10-04 16:17:57.601 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - Error: Malformed request
+2024-10-04 16:17:57.602 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.602 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.602 - PUT operation - Key: France, Value: Paris
+2024-10-04 16:17:57.602 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: France
+2024-10-04 16:17:57.603 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.603 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.603 - PUT operation - Key: Germany, Value: Berlin
+2024-10-04 16:17:57.603 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Germany
+2024-10-04 16:17:57.604 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.604 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.604 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-04 16:17:57.604 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Japan
+2024-10-04 16:17:57.604 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.604 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.604 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-04 16:17:57.605 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Canada
+2024-10-04 16:17:57.605 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.605 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.605 - ERROR: Received malformed UDP request from client 127.0.0.1:55151
+2024-10-04 16:17:57.605 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - Error: Malformed request
+2024-10-04 16:17:57.605 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.606 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.606 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-04 16:17:57.606 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Brazil
+2024-10-04 16:17:57.606 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.606 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.606 - PUT operation - Key: Australia, Value: Canberra
+2024-10-04 16:17:57.606 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Australia
+2024-10-04 16:17:57.607 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.607 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.607 - ERROR: Received malformed UDP request from client 127.0.0.1:55151
+2024-10-04 16:17:57.607 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - Error: Malformed request
+2024-10-04 16:17:57.607 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.608 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.608 - PUT operation - Key: Russia, Value: Moscow
+2024-10-04 16:17:57.608 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Russia
+2024-10-04 16:17:57.608 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.608 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.608 - ERROR: Received malformed UDP request from client 127.0.0.1:55151
+2024-10-04 16:17:57.609 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - Error: Malformed request
+2024-10-04 16:17:57.609 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.609 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.610 - PUT operation - Key: Apple, Value: Technology
+2024-10-04 16:17:57.610 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Apple
+2024-10-04 16:17:57.610 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.610 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.610 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-04 16:17:57.611 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Nike
+2024-10-04 16:17:57.611 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.611 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.611 - ERROR: Received malformed UDP request from client 127.0.0.1:55151
+2024-10-04 16:17:57.611 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - Error: Malformed request
+2024-10-04 16:17:57.612 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.612 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.612 - ERROR: Received malformed UDP request from client 127.0.0.1:55151
+2024-10-04 16:17:57.612 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - Error: Malformed request
+2024-10-04 16:17:57.612 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.613 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.613 - ERROR: Received malformed UDP request from client 127.0.0.1:55151
+2024-10-04 16:17:57.613 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - Error: Malformed request
+2024-10-04 16:17:57.613 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.614 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.614 - PUT operation - Key: Microsoft, Value: Software
+2024-10-04 16:17:57.614 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Microsoft
+2024-10-04 16:17:57.615 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.615 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.615 - PUT operation - Key: BMW, Value: Automobile
+2024-10-04 16:17:57.615 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: BMW
+2024-10-04 16:17:57.616 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.616 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.616 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-04 16:17:57.616 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Starbucks
+2024-10-04 16:17:57.617 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.617 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.617 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-04 16:17:57.617 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - PUT successful for key: Samsung
+2024-10-04 16:17:57.618 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.618 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.620 - GET operation - Key: USA, Value not found
+2024-10-04 16:17:57.620 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - ERROR: Key not found
+2024-10-04 16:17:57.620 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.620 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.620 - GET operation - Key: France, Value: Paris
+2024-10-04 16:17:57.621 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - GET successful: Paris
+2024-10-04 16:17:57.621 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.621 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.621 - GET operation - Key: Germany, Value: Berlin
+2024-10-04 16:17:57.621 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - GET successful: Berlin
+2024-10-04 16:17:57.621 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.621 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.621 - GET operation - Key: Japan, Value: Tokyo
+2024-10-04 16:17:57.622 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - GET successful: Tokyo
+2024-10-04 16:17:57.622 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.622 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.622 - GET operation - Key: Canada, Value: Ottawa
+2024-10-04 16:17:57.622 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - GET successful: Ottawa
+2024-10-04 16:17:57.623 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.623 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.623 - ContainsKey operation - Key: USA does not exist in the store.
+2024-10-04 16:17:57.623 - ERROR: DELETE failed for key: USA - Key does not exist::PORT3000
+2024-10-04 16:17:57.624 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - ERROR: Key does not exist
+2024-10-04 16:17:57.624 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.624 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.624 - ContainsKey operation - Key: France exists in the store.
+2024-10-04 16:17:57.625 - DELETE operation - Key: France removed
+2024-10-04 16:17:57.625 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - DELETE successful for key: France
+2024-10-04 16:17:57.625 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.625 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.625 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-04 16:17:57.625 - DELETE operation - Key: Germany removed
+2024-10-04 16:17:57.625 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - DELETE successful for key: Germany
+2024-10-04 16:17:57.626 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.626 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.626 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-04 16:17:57.626 - DELETE operation - Key: Japan removed
+2024-10-04 16:17:57.626 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - DELETE successful for key: Japan
+2024-10-04 16:17:57.627 - Received UDP request from IP: 127.0.0.1, Port: 55151
+2024-10-04 16:17:57.627 - Client Connection Info: Remote Address: /127.0.0.1:55151
+2024-10-04 16:17:57.627 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-04 16:17:57.627 - DELETE operation - Key: Canada removed
+2024-10-04 16:17:57.628 - Sent UDP response to IP: 127.0.0.1, Port: 55151 - DELETE successful for key: Canada
+2024-10-04 16:18:37.304 - Received UDP request from IP: 127.0.0.1, Port: 60101
+2024-10-04 16:18:37.304 - Client Connection Info: Remote Address: /127.0.0.1:60101
+2024-10-04 16:18:37.304 - GET operation - Key: jacket, Value: An outer garment extending to the waist or hips
+2024-10-04 16:18:37.305 - Sent UDP response to IP: 127.0.0.1, Port: 60101 - GET successful: An outer garment extending to the waist or hips
+2024-10-04 16:19:02.329 - Server started on port::3000::Server protocol::TCP
+2024-10-04 16:19:02.346 - TCP Server started on port 3000
+2024-10-04 16:19:02.347 - PUT operation - Key: apple, Value: A fruit that is sweet and crisp
+2024-10-04 16:19:02.347 - PUT operation - Key: book, Value: A collection of pages with text or illustrations
+2024-10-04 16:19:02.347 - PUT operation - Key: car, Value: A vehicle used for transportation
+2024-10-04 16:19:02.347 - PUT operation - Key: dog, Value: A domestic animal known for loyalty
+2024-10-04 16:19:02.347 - PUT operation - Key: elephant, Value: A large mammal with a trunk
+2024-10-04 16:19:02.348 - PUT operation - Key: forest, Value: A large area covered chiefly with trees and undergrowth
+2024-10-04 16:19:02.348 - PUT operation - Key: guitar, Value: A stringed musical instrument
+2024-10-04 16:19:02.348 - PUT operation - Key: house, Value: A building for human habitation
+2024-10-04 16:19:02.348 - PUT operation - Key: island, Value: A piece of land surrounded by water
+2024-10-04 16:19:02.348 - PUT operation - Key: jacket, Value: An outer garment extending to the waist or hips
+2024-10-04 16:19:10.115 - TCP client connected from IP: 127.0.0.1, Port: 52428
+2024-10-04 16:19:10.121 - Client Connection Info: Remote IP: /127.0.0.1:52428, Local Port: 3000, Is Connected: true
+2024-10-04 16:19:10.125 - Received request from 127.0.0.1:52428 - PUT:USA:Washington DC
+2024-10-04 16:19:10.125 - PUT operation - Key: USA, Value: Washington DC
+2024-10-04 16:19:10.126 - Sent response to 127.0.0.1:52428 - PUT successful for key: USA
+2024-10-04 16:19:10.130 - Received request from 127.0.0.1:52428 - PUT:France:Paris
+2024-10-04 16:19:10.130 - PUT operation - Key: France, Value: Paris
+2024-10-04 16:19:10.130 - Sent response to 127.0.0.1:52428 - PUT successful for key: France
+2024-10-04 16:19:10.131 - Received request from 127.0.0.1:52428 - PUT:Germany:Berlin
+2024-10-04 16:19:10.131 - PUT operation - Key: Germany, Value: Berlin
+2024-10-04 16:19:10.131 - Sent response to 127.0.0.1:52428 - PUT successful for key: Germany
+2024-10-04 16:19:10.131 - Received request from 127.0.0.1:52428 - PUT:Japan:Tokyo
+2024-10-04 16:19:10.131 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-04 16:19:10.132 - Sent response to 127.0.0.1:52428 - PUT successful for key: Japan
+2024-10-04 16:19:10.132 - Received request from 127.0.0.1:52428 - PUT:Canada:Ottawa
+2024-10-04 16:19:10.132 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-04 16:19:10.132 - Sent response to 127.0.0.1:52428 - PUT successful for key: Canada
+2024-10-04 16:19:10.133 - Received request from 127.0.0.1:52428 - PUT:India:New Delhi
+2024-10-04 16:19:10.133 - PUT operation - Key: India, Value: New Delhi
+2024-10-04 16:19:10.133 - Sent response to 127.0.0.1:52428 - PUT successful for key: India
+2024-10-04 16:19:10.133 - Received request from 127.0.0.1:52428 - PUT:Brazil:Brasilia
+2024-10-04 16:19:10.133 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-04 16:19:10.133 - Sent response to 127.0.0.1:52428 - PUT successful for key: Brazil
+2024-10-04 16:19:10.134 - Received request from 127.0.0.1:52428 - PUT:Australia:Canberra
+2024-10-04 16:19:10.134 - PUT operation - Key: Australia, Value: Canberra
+2024-10-04 16:19:10.134 - Sent response to 127.0.0.1:52428 - PUT successful for key: Australia
+2024-10-04 16:19:10.134 - Received request from 127.0.0.1:52428 - PUT:Mexico:Mexico City
+2024-10-04 16:19:10.134 - PUT operation - Key: Mexico, Value: Mexico City
+2024-10-04 16:19:10.135 - Sent response to 127.0.0.1:52428 - PUT successful for key: Mexico
+2024-10-04 16:19:10.135 - Received request from 127.0.0.1:52428 - PUT:Russia:Moscow
+2024-10-04 16:19:10.135 - PUT operation - Key: Russia, Value: Moscow
+2024-10-04 16:19:10.135 - Sent response to 127.0.0.1:52428 - PUT successful for key: Russia
+2024-10-04 16:19:10.136 - Received request from 127.0.0.1:52428 - PUT:Tesla:Electric Car
+2024-10-04 16:19:10.136 - PUT operation - Key: Tesla, Value: Electric Car
+2024-10-04 16:19:10.137 - Sent response to 127.0.0.1:52428 - PUT successful for key: Tesla
+2024-10-04 16:19:10.137 - Received request from 127.0.0.1:52428 - PUT:Apple:Technology
+2024-10-04 16:19:10.137 - PUT operation - Key: Apple, Value: Technology
+2024-10-04 16:19:10.137 - Sent response to 127.0.0.1:52428 - PUT successful for key: Apple
+2024-10-04 16:19:10.137 - Received request from 127.0.0.1:52428 - PUT:Nike:Sportswear
+2024-10-04 16:19:10.137 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-04 16:19:10.138 - Sent response to 127.0.0.1:52428 - PUT successful for key: Nike
+2024-10-04 16:19:10.138 - Received request from 127.0.0.1:52428 - PUT:Amazon:E-commerce
+2024-10-04 16:19:10.138 - PUT operation - Key: Amazon, Value: E-commerce
+2024-10-04 16:19:10.138 - Sent response to 127.0.0.1:52428 - PUT successful for key: Amazon
+2024-10-04 16:19:10.138 - Received request from 127.0.0.1:52428 - PUT:Coca-Cola:Beverage
+2024-10-04 16:19:10.139 - PUT operation - Key: Coca-Cola, Value: Beverage
+2024-10-04 16:19:10.139 - Sent response to 127.0.0.1:52428 - PUT successful for key: Coca-Cola
+2024-10-04 16:19:10.139 - Received request from 127.0.0.1:52428 - PUT:Google:Search Engine
+2024-10-04 16:19:10.139 - PUT operation - Key: Google, Value: Search Engine
+2024-10-04 16:19:10.139 - Sent response to 127.0.0.1:52428 - PUT successful for key: Google
+2024-10-04 16:19:10.139 - Received request from 127.0.0.1:52428 - PUT:Microsoft:Software
+2024-10-04 16:19:10.139 - PUT operation - Key: Microsoft, Value: Software
+2024-10-04 16:19:10.140 - Sent response to 127.0.0.1:52428 - PUT successful for key: Microsoft
+2024-10-04 16:19:10.140 - Received request from 127.0.0.1:52428 - PUT:BMW:Automobile
+2024-10-04 16:19:10.140 - PUT operation - Key: BMW, Value: Automobile
+2024-10-04 16:19:10.140 - Sent response to 127.0.0.1:52428 - PUT successful for key: BMW
+2024-10-04 16:19:10.141 - Received request from 127.0.0.1:52428 - PUT:Starbucks:Coffee
+2024-10-04 16:19:10.141 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-04 16:19:10.141 - Sent response to 127.0.0.1:52428 - PUT successful for key: Starbucks
+2024-10-04 16:19:10.142 - Received request from 127.0.0.1:52428 - PUT:Samsung:Electronics
+2024-10-04 16:19:10.142 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-04 16:19:10.142 - Sent response to 127.0.0.1:52428 - PUT successful for key: Samsung
+2024-10-04 16:19:10.142 - Received request from 127.0.0.1:52428 - GET:USA
+2024-10-04 16:19:10.143 - GET operation - Key: USA, Value: Washington DC
+2024-10-04 16:19:10.143 - Sent response to 127.0.0.1:52428 - GET successful: Washington DC
+2024-10-04 16:19:10.143 - Received request from 127.0.0.1:52428 - GET:France
+2024-10-04 16:19:10.143 - GET operation - Key: France, Value: Paris
+2024-10-04 16:19:10.143 - Sent response to 127.0.0.1:52428 - GET successful: Paris
+2024-10-04 16:19:10.144 - Received request from 127.0.0.1:52428 - GET:Germany
+2024-10-04 16:19:10.144 - GET operation - Key: Germany, Value: Berlin
+2024-10-04 16:19:10.144 - Sent response to 127.0.0.1:52428 - GET successful: Berlin
+2024-10-04 16:19:10.144 - Received request from 127.0.0.1:52428 - GET:Japan
+2024-10-04 16:19:10.144 - GET operation - Key: Japan, Value: Tokyo
+2024-10-04 16:19:10.144 - Sent response to 127.0.0.1:52428 - GET successful: Tokyo
+2024-10-04 16:19:10.144 - Received request from 127.0.0.1:52428 - GET:Canada
+2024-10-04 16:19:10.145 - GET operation - Key: Canada, Value: Ottawa
+2024-10-04 16:19:10.145 - Sent response to 127.0.0.1:52428 - GET successful: Ottawa
+2024-10-04 16:19:10.145 - Received request from 127.0.0.1:52428 - DELETE:USA
+2024-10-04 16:19:10.147 - ContainsKey operation - Key: USA exists in the store.
+2024-10-04 16:19:10.147 - DELETE operation - Key: USA removed
+2024-10-04 16:19:10.148 - Sent response to 127.0.0.1:52428 - DELETE successful for key: USA
+2024-10-04 16:19:10.148 - Received request from 127.0.0.1:52428 - DELETE:France
+2024-10-04 16:19:10.148 - ContainsKey operation - Key: France exists in the store.
+2024-10-04 16:19:10.148 - DELETE operation - Key: France removed
+2024-10-04 16:19:10.148 - Sent response to 127.0.0.1:52428 - DELETE successful for key: France
+2024-10-04 16:19:10.149 - Received request from 127.0.0.1:52428 - DELETE:Germany
+2024-10-04 16:19:10.149 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-04 16:19:10.149 - DELETE operation - Key: Germany removed
+2024-10-04 16:19:10.149 - Sent response to 127.0.0.1:52428 - DELETE successful for key: Germany
+2024-10-04 16:19:10.149 - Received request from 127.0.0.1:52428 - DELETE:Japan
+2024-10-04 16:19:10.149 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-04 16:19:10.149 - DELETE operation - Key: Japan removed
+2024-10-04 16:19:10.149 - Sent response to 127.0.0.1:52428 - DELETE successful for key: Japan
+2024-10-04 16:19:10.150 - Received request from 127.0.0.1:52428 - DELETE:Canada
+2024-10-04 16:19:10.150 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-04 16:19:10.150 - DELETE operation - Key: Canada removed
+2024-10-04 16:19:10.150 - Sent response to 127.0.0.1:52428 - DELETE successful for key: Canada
+2024-10-04 16:19:10.153 - TCP client disconnected from 127.0.0.1:52428
+2024-10-04 16:19:10.154 - TCP client connected from IP: 127.0.0.1, Port: 52429
+2024-10-04 16:19:10.154 - Client Connection Info: Remote IP: /127.0.0.1:52429, Local Port: 3000, Is Connected: true
+2024-10-04 16:19:14.295 - Received request from 127.0.0.1:52429 - PUT:sudh:sud
+2024-10-04 16:19:14.296 - PUT operation - Key: sudh, Value: sud
+2024-10-04 16:19:14.296 - Sent response to 127.0.0.1:52429 - PUT successful for key: sudh
+2024-10-04 16:19:19.429 - Received request from 127.0.0.1:52429 - GET:jacket
+2024-10-04 16:19:19.430 - GET operation - Key: jacket, Value: An outer garment extending to the waist or hips
+2024-10-04 16:19:19.430 - Sent response to 127.0.0.1:52429 - GET successful: An outer garment extending to the waist or hips
+2024-10-04 16:19:23.130 - TCP client disconnected from 127.0.0.1:52429
+2024-10-04 16:20:55.586 - Server started on port::3000::Server protocol::TCP
+2024-10-04 16:20:55.604 - TCP Server started on port 3000
+2024-10-04 16:20:55.604 - PUT operation - Key: apple, Value: A fruit that is sweet and crisp
+2024-10-04 16:20:55.605 - PUT operation - Key: book, Value: A collection of pages with text or illustrations
+2024-10-04 16:20:55.605 - PUT operation - Key: car, Value: A vehicle used for transportation
+2024-10-04 16:20:55.605 - PUT operation - Key: dog, Value: A domestic animal known for loyalty
+2024-10-04 16:20:55.605 - PUT operation - Key: elephant, Value: A large mammal with a trunk
+2024-10-04 16:20:55.605 - PUT operation - Key: forest, Value: A large area covered chiefly with trees and undergrowth
+2024-10-04 16:20:55.605 - PUT operation - Key: guitar, Value: A stringed musical instrument
+2024-10-04 16:20:55.605 - PUT operation - Key: house, Value: A building for human habitation
+2024-10-04 16:20:55.605 - PUT operation - Key: island, Value: A piece of land surrounded by water
+2024-10-04 16:20:55.605 - PUT operation - Key: jacket, Value: An outer garment extending to the waist or hips
+2024-10-04 16:21:06.831 - Server started on port::3000::Server protocol::TCP
+2024-10-04 16:21:06.847 - TCP Server started on port 3000
+2024-10-04 16:21:06.848 - PUT operation - Key: apple, Value: A fruit that is sweet and crisp
+2024-10-04 16:21:06.848 - PUT operation - Key: book, Value: A collection of pages with text or illustrations
+2024-10-04 16:21:06.848 - PUT operation - Key: car, Value: A vehicle used for transportation
+2024-10-04 16:21:06.848 - PUT operation - Key: dog, Value: A domestic animal known for loyalty
+2024-10-04 16:21:06.848 - PUT operation - Key: elephant, Value: A large mammal with a trunk
+2024-10-04 16:21:06.849 - PUT operation - Key: forest, Value: A large area covered chiefly with trees and undergrowth
+2024-10-04 16:21:06.849 - PUT operation - Key: guitar, Value: A stringed musical instrument
+2024-10-04 16:21:06.849 - PUT operation - Key: house, Value: A building for human habitation
+2024-10-04 16:21:06.849 - PUT operation - Key: island, Value: A piece of land surrounded by water
+2024-10-04 16:21:06.849 - PUT operation - Key: jacket, Value: An outer garment extending to the waist or hips
+2024-10-04 16:21:11.705 - TCP client connected from IP: 127.0.0.1, Port: 52436
+2024-10-04 16:21:11.711 - Client Connection Info: Remote IP: /127.0.0.1:52436, Local Port: 3000, Is Connected: true
+2024-10-04 16:21:11.715 - Received request from 127.0.0.1:52436 - PUT:USA:Washington DC
+2024-10-04 16:21:11.715 - PUT operation - Key: USA, Value: Washington DC
+2024-10-04 16:21:11.716 - ERROR: Received malformed request from client 127.0.0.1:52436
+2024-10-04 16:21:11.717 - Sent response to 127.0.0.1:52436 - Error: Malformed request
+2024-10-04 16:21:11.721 - Received request from 127.0.0.1:52436 - PUT:France:Paris
+2024-10-04 16:21:11.721 - PUT operation - Key: France, Value: Paris
+2024-10-04 16:21:11.721 - Sent response to 127.0.0.1:52436 - PUT successful for key: France
+2024-10-04 16:21:11.722 - Received request from 127.0.0.1:52436 - PUT:Germany:Berlin
+2024-10-04 16:21:11.722 - PUT operation - Key: Germany, Value: Berlin
+2024-10-04 16:21:11.722 - Sent response to 127.0.0.1:52436 - PUT successful for key: Germany
+2024-10-04 16:21:11.723 - Received request from 127.0.0.1:52436 - PUT:Japan:Tokyo
+2024-10-04 16:21:11.723 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-04 16:21:11.723 - Sent response to 127.0.0.1:52436 - PUT successful for key: Japan
+2024-10-04 16:21:11.723 - Received request from 127.0.0.1:52436 - PUT:Canada:Ottawa
+2024-10-04 16:21:11.724 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-04 16:21:11.724 - Sent response to 127.0.0.1:52436 - PUT successful for key: Canada
+2024-10-04 16:21:11.724 - Received request from 127.0.0.1:52436 - PUT:India:New Delhi
+2024-10-04 16:21:11.724 - PUT operation - Key: India, Value: New Delhi
+2024-10-04 16:21:11.724 - ERROR: Received malformed request from client 127.0.0.1:52436
+2024-10-04 16:21:11.724 - Sent response to 127.0.0.1:52436 - Error: Malformed request
+2024-10-04 16:21:11.725 - Received request from 127.0.0.1:52436 - PUT:Brazil:Brasilia
+2024-10-04 16:21:11.725 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-04 16:21:11.725 - Sent response to 127.0.0.1:52436 - PUT successful for key: Brazil
+2024-10-04 16:21:11.725 - Received request from 127.0.0.1:52436 - PUT:Australia:Canberra
+2024-10-04 16:21:11.725 - PUT operation - Key: Australia, Value: Canberra
+2024-10-04 16:21:11.725 - Sent response to 127.0.0.1:52436 - PUT successful for key: Australia
+2024-10-04 16:21:11.726 - Received request from 127.0.0.1:52436 - PUT:Mexico:Mexico City
+2024-10-04 16:21:11.726 - PUT operation - Key: Mexico, Value: Mexico City
+2024-10-04 16:21:11.726 - ERROR: Received malformed request from client 127.0.0.1:52436
+2024-10-04 16:21:11.726 - Sent response to 127.0.0.1:52436 - Error: Malformed request
+2024-10-04 16:21:11.726 - Received request from 127.0.0.1:52436 - PUT:Russia:Moscow
+2024-10-04 16:21:11.727 - PUT operation - Key: Russia, Value: Moscow
+2024-10-04 16:21:11.727 - Sent response to 127.0.0.1:52436 - PUT successful for key: Russia
+2024-10-04 16:21:11.727 - Received request from 127.0.0.1:52436 - PUT:Tesla:Electric Car
+2024-10-04 16:21:11.727 - PUT operation - Key: Tesla, Value: Electric Car
+2024-10-04 16:21:11.727 - ERROR: Received malformed request from client 127.0.0.1:52436
+2024-10-04 16:21:11.727 - Sent response to 127.0.0.1:52436 - Error: Malformed request
+2024-10-04 16:21:11.728 - Received request from 127.0.0.1:52436 - PUT:Apple:Technology
+2024-10-04 16:21:11.728 - PUT operation - Key: Apple, Value: Technology
+2024-10-04 16:21:11.728 - Sent response to 127.0.0.1:52436 - PUT successful for key: Apple
+2024-10-04 16:21:11.728 - Received request from 127.0.0.1:52436 - PUT:Nike:Sportswear
+2024-10-04 16:21:11.728 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-04 16:21:11.728 - Sent response to 127.0.0.1:52436 - PUT successful for key: Nike
+2024-10-04 16:21:11.729 - Received request from 127.0.0.1:52436 - PUT:Amazon:E-commerce
+2024-10-04 16:21:11.729 - PUT operation - Key: Amazon, Value: E-commerce
+2024-10-04 16:21:11.729 - ERROR: Received malformed request from client 127.0.0.1:52436
+2024-10-04 16:21:11.729 - Sent response to 127.0.0.1:52436 - Error: Malformed request
+2024-10-04 16:21:11.729 - Received request from 127.0.0.1:52436 - PUT:Coca-Cola:Beverage
+2024-10-04 16:21:11.729 - PUT operation - Key: Coca-Cola, Value: Beverage
+2024-10-04 16:21:11.729 - ERROR: Received malformed request from client 127.0.0.1:52436
+2024-10-04 16:21:11.730 - Sent response to 127.0.0.1:52436 - Error: Malformed request
+2024-10-04 16:21:11.730 - Received request from 127.0.0.1:52436 - PUT:Google:Search Engine
+2024-10-04 16:21:11.730 - PUT operation - Key: Google, Value: Search Engine
+2024-10-04 16:21:11.730 - ERROR: Received malformed request from client 127.0.0.1:52436
+2024-10-04 16:21:11.730 - Sent response to 127.0.0.1:52436 - Error: Malformed request
+2024-10-04 16:21:11.731 - Received request from 127.0.0.1:52436 - PUT:Microsoft:Software
+2024-10-04 16:21:11.731 - PUT operation - Key: Microsoft, Value: Software
+2024-10-04 16:21:11.731 - Sent response to 127.0.0.1:52436 - PUT successful for key: Microsoft
+2024-10-04 16:21:11.731 - Received request from 127.0.0.1:52436 - PUT:BMW:Automobile
+2024-10-04 16:21:11.732 - PUT operation - Key: BMW, Value: Automobile
+2024-10-04 16:21:11.732 - Sent response to 127.0.0.1:52436 - PUT successful for key: BMW
+2024-10-04 16:21:11.732 - Received request from 127.0.0.1:52436 - PUT:Starbucks:Coffee
+2024-10-04 16:21:11.732 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-04 16:21:11.732 - Sent response to 127.0.0.1:52436 - PUT successful for key: Starbucks
+2024-10-04 16:21:11.733 - Received request from 127.0.0.1:52436 - PUT:Samsung:Electronics
+2024-10-04 16:21:11.733 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-04 16:21:11.733 - Sent response to 127.0.0.1:52436 - PUT successful for key: Samsung
+2024-10-04 16:21:11.733 - Received request from 127.0.0.1:52436 - GET:USA
+2024-10-04 16:21:11.734 - GET operation - Key: USA, Value: Washington DC
+2024-10-04 16:21:11.734 - Sent response to 127.0.0.1:52436 - GET successful: Washington DC
+2024-10-04 16:21:11.734 - Received request from 127.0.0.1:52436 - GET:France
+2024-10-04 16:21:11.734 - GET operation - Key: France, Value: Paris
+2024-10-04 16:21:11.735 - Sent response to 127.0.0.1:52436 - GET successful: Paris
+2024-10-04 16:21:11.735 - Received request from 127.0.0.1:52436 - GET:Germany
+2024-10-04 16:21:11.735 - GET operation - Key: Germany, Value: Berlin
+2024-10-04 16:21:11.736 - Sent response to 127.0.0.1:52436 - GET successful: Berlin
+2024-10-04 16:21:11.737 - Received request from 127.0.0.1:52436 - GET:Japan
+2024-10-04 16:21:11.737 - GET operation - Key: Japan, Value: Tokyo
+2024-10-04 16:21:11.737 - Sent response to 127.0.0.1:52436 - GET successful: Tokyo
+2024-10-04 16:21:11.738 - Received request from 127.0.0.1:52436 - GET:Canada
+2024-10-04 16:21:11.738 - GET operation - Key: Canada, Value: Ottawa
+2024-10-04 16:21:11.738 - Sent response to 127.0.0.1:52436 - GET successful: Ottawa
+2024-10-04 16:21:11.738 - Received request from 127.0.0.1:52436 - DELETE:USA
+2024-10-04 16:21:11.740 - ContainsKey operation - Key: USA exists in the store.
+2024-10-04 16:21:11.740 - DELETE operation - Key: USA removed
+2024-10-04 16:21:11.741 - Sent response to 127.0.0.1:52436 - DELETE successful for key: USA
+2024-10-04 16:21:11.741 - Received request from 127.0.0.1:52436 - DELETE:France
+2024-10-04 16:21:11.741 - ContainsKey operation - Key: France exists in the store.
+2024-10-04 16:21:11.741 - DELETE operation - Key: France removed
+2024-10-04 16:21:11.741 - Sent response to 127.0.0.1:52436 - DELETE successful for key: France
+2024-10-04 16:21:11.742 - Received request from 127.0.0.1:52436 - DELETE:Germany
+2024-10-04 16:21:11.742 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-04 16:21:11.742 - DELETE operation - Key: Germany removed
+2024-10-04 16:21:11.742 - Sent response to 127.0.0.1:52436 - DELETE successful for key: Germany
+2024-10-04 16:21:11.742 - Received request from 127.0.0.1:52436 - DELETE:Japan
+2024-10-04 16:21:11.742 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-04 16:21:11.742 - DELETE operation - Key: Japan removed
+2024-10-04 16:21:11.743 - Sent response to 127.0.0.1:52436 - DELETE successful for key: Japan
+2024-10-04 16:21:11.743 - Received request from 127.0.0.1:52436 - DELETE:Canada
+2024-10-04 16:21:11.743 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-04 16:21:11.743 - DELETE operation - Key: Canada removed
+2024-10-04 16:21:11.743 - Sent response to 127.0.0.1:52436 - DELETE successful for key: Canada
+2024-10-04 16:21:11.746 - TCP client disconnected from 127.0.0.1:52436
+2024-10-04 16:21:11.746 - TCP client connected from IP: 127.0.0.1, Port: 52437
+2024-10-04 16:21:11.747 - Client Connection Info: Remote IP: /127.0.0.1:52437, Local Port: 3000, Is Connected: true
+2024-10-04 16:21:28.363 - Received request from 127.0.0.1:52437 - PUT:foisehn$:oifhe#
+2024-10-04 16:21:28.363 - PUT operation - Key: foisehn$, Value: oifhe#
+2024-10-04 16:21:28.363 - ERROR: Received malformed request from client 127.0.0.1:52437
+2024-10-04 16:21:28.364 - Sent response to 127.0.0.1:52437 - Error: Malformed request
+2024-10-04 16:22:30.524 - Received request from 127.0.0.1:52437 - PUT:little:boy
+2024-10-04 16:22:30.525 - PUT operation - Key: little, Value: boy
+2024-10-04 16:22:30.525 - Sent response to 127.0.0.1:52437 - PUT successful for key: little
+2024-10-04 16:22:36.396 - Received request from 127.0.0.1:52437 - GET:little
+2024-10-04 16:22:36.397 - GET operation - Key: little, Value: boy
+2024-10-04 16:22:36.397 - Sent response to 127.0.0.1:52437 - GET successful: boy
+2024-10-04 16:22:39.783 - TCP client disconnected from 127.0.0.1:52437
+2024-10-04 16:37:52.927 - Server started on port::3000::Server protocol::TCP
+2024-10-04 16:37:52.945 - TCP Server started on port 3000
+2024-10-04 16:37:52.945 - PUT operation - Key: apple, Value: A fruit that is sweet and crisp
+2024-10-04 16:37:52.945 - PUT operation - Key: book, Value: A collection of pages with text or illustrations
+2024-10-04 16:37:52.945 - PUT operation - Key: car, Value: A vehicle used for transportation
+2024-10-04 16:37:52.945 - PUT operation - Key: dog, Value: A domestic animal known for loyalty
+2024-10-04 16:37:52.945 - PUT operation - Key: elephant, Value: A large mammal with a trunk
+2024-10-04 16:37:52.946 - PUT operation - Key: forest, Value: A large area covered chiefly with trees and undergrowth
+2024-10-04 16:37:52.946 - PUT operation - Key: guitar, Value: A stringed musical instrument
+2024-10-04 16:37:52.946 - PUT operation - Key: house, Value: A building for human habitation
+2024-10-04 16:37:52.946 - PUT operation - Key: island, Value: A piece of land surrounded by water
+2024-10-04 16:37:52.946 - PUT operation - Key: jacket, Value: An outer garment extending to the waist or hips
+2024-10-04 16:51:34.645 - Server started on port::8080::Server protocol::TCP
+2024-10-04 16:51:34.663 - TCP Server started on port 8080
+2024-10-04 16:51:34.663 - PUT operation - Key: apple, Value: A fruit that is sweet and crisp
+2024-10-04 16:51:34.664 - PUT operation - Key: book, Value: A collection of pages with text or illustrations
+2024-10-04 16:51:34.664 - PUT operation - Key: car, Value: A vehicle used for transportation
+2024-10-04 16:51:34.664 - PUT operation - Key: dog, Value: A domestic animal known for loyalty
+2024-10-04 16:51:34.664 - PUT operation - Key: elephant, Value: A large mammal with a trunk
+2024-10-04 16:51:34.665 - PUT operation - Key: forest, Value: A large area covered chiefly with trees and undergrowth
+2024-10-04 16:51:34.665 - PUT operation - Key: guitar, Value: A stringed musical instrument
+2024-10-04 16:51:34.665 - PUT operation - Key: house, Value: A building for human habitation
+2024-10-04 16:51:34.665 - PUT operation - Key: island, Value: A piece of land surrounded by water
+2024-10-04 16:51:34.665 - PUT operation - Key: jacket, Value: An outer garment extending to the waist or hips
+2024-10-04 16:51:58.593 - Server started on port::8080::Server protocol::TCP
+2024-10-04 16:51:58.608 - TCP Server started on port 8080
+2024-10-04 16:51:58.609 - PUT operation - Key: apple, Value: A fruit that is sweet and crisp
+2024-10-04 16:51:58.609 - PUT operation - Key: book, Value: A collection of pages with text or illustrations
+2024-10-04 16:51:58.610 - PUT operation - Key: car, Value: A vehicle used for transportation
+2024-10-04 16:51:58.610 - PUT operation - Key: dog, Value: A domestic animal known for loyalty
+2024-10-04 16:51:58.610 - PUT operation - Key: elephant, Value: A large mammal with a trunk
+2024-10-04 16:51:58.610 - PUT operation - Key: forest, Value: A large area covered chiefly with trees and undergrowth
+2024-10-04 16:51:58.610 - PUT operation - Key: guitar, Value: A stringed musical instrument
+2024-10-04 16:51:58.610 - PUT operation - Key: house, Value: A building for human habitation
+2024-10-04 16:51:58.610 - PUT operation - Key: island, Value: A piece of land surrounded by water
+2024-10-04 16:51:58.611 - PUT operation - Key: jacket, Value: An outer garment extending to the waist or hips
+2024-10-04 16:52:00.654 - TCP client connected from IP: 127.0.0.1, Port: 52634
+2024-10-04 16:52:00.661 - Client Connection Info: Remote IP: /127.0.0.1:52634, Local Port: 8080, Is Connected: true
+2024-10-04 16:52:00.666 - Received request from 127.0.0.1:52634 - PUT:USA:Washington DC
+2024-10-04 16:52:00.666 - PUT operation - Key: USA, Value: Washington DC
+2024-10-04 16:52:00.666 - ERROR: Received malformed request from client 127.0.0.1:52634
+2024-10-04 16:52:00.668 - Sent response to 127.0.0.1:52634 - Error: Malformed request from Client
+2024-10-04 16:52:00.672 - Received request from 127.0.0.1:52634 - PUT:France:Paris
+2024-10-04 16:52:00.673 - PUT operation - Key: France, Value: Paris
+2024-10-04 16:52:00.673 - Sent response to 127.0.0.1:52634 - PUT successful for key: France
+2024-10-04 16:52:00.673 - Received request from 127.0.0.1:52634 - PUT:Germany:Berlin
+2024-10-04 16:52:00.674 - PUT operation - Key: Germany, Value: Berlin
+2024-10-04 16:52:00.674 - Sent response to 127.0.0.1:52634 - PUT successful for key: Germany
+2024-10-04 16:52:00.674 - Received request from 127.0.0.1:52634 - PUT:Japan:Tokyo
+2024-10-04 16:52:00.674 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-04 16:52:00.675 - Sent response to 127.0.0.1:52634 - PUT successful for key: Japan
+2024-10-04 16:52:00.675 - Received request from 127.0.0.1:52634 - PUT:Canada:Ottawa
+2024-10-04 16:52:00.675 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-04 16:52:00.676 - Sent response to 127.0.0.1:52634 - PUT successful for key: Canada
+2024-10-04 16:52:00.676 - Received request from 127.0.0.1:52634 - PUT:India:New Delhi
+2024-10-04 16:52:00.677 - PUT operation - Key: India, Value: New Delhi
+2024-10-04 16:52:00.677 - ERROR: Received malformed request from client 127.0.0.1:52634
+2024-10-04 16:52:00.678 - Sent response to 127.0.0.1:52634 - Error: Malformed request from Client
+2024-10-04 16:52:00.679 - Received request from 127.0.0.1:52634 - PUT:Brazil:Brasilia
+2024-10-04 16:52:00.679 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-04 16:52:00.679 - Sent response to 127.0.0.1:52634 - PUT successful for key: Brazil
+2024-10-04 16:52:00.680 - Received request from 127.0.0.1:52634 - PUT:Australia:Canberra
+2024-10-04 16:52:00.680 - PUT operation - Key: Australia, Value: Canberra
+2024-10-04 16:52:00.681 - Sent response to 127.0.0.1:52634 - PUT successful for key: Australia
+2024-10-04 16:52:00.681 - Received request from 127.0.0.1:52634 - PUT:Mexico:Mexico City
+2024-10-04 16:52:00.682 - PUT operation - Key: Mexico, Value: Mexico City
+2024-10-04 16:52:00.682 - ERROR: Received malformed request from client 127.0.0.1:52634
+2024-10-04 16:52:00.682 - Sent response to 127.0.0.1:52634 - Error: Malformed request from Client
+2024-10-04 16:52:00.683 - Received request from 127.0.0.1:52634 - PUT:Russia:Moscow
+2024-10-04 16:52:00.683 - PUT operation - Key: Russia, Value: Moscow
+2024-10-04 16:52:00.683 - Sent response to 127.0.0.1:52634 - PUT successful for key: Russia
+2024-10-04 16:52:00.683 - Received request from 127.0.0.1:52634 - PUT:Tesla:Electric Car
+2024-10-04 16:52:00.683 - PUT operation - Key: Tesla, Value: Electric Car
+2024-10-04 16:52:00.684 - ERROR: Received malformed request from client 127.0.0.1:52634
+2024-10-04 16:52:00.684 - Sent response to 127.0.0.1:52634 - Error: Malformed request from Client
+2024-10-04 16:52:00.684 - Received request from 127.0.0.1:52634 - PUT:Apple:Technology
+2024-10-04 16:52:00.684 - PUT operation - Key: Apple, Value: Technology
+2024-10-04 16:52:00.685 - Sent response to 127.0.0.1:52634 - PUT successful for key: Apple
+2024-10-04 16:52:00.685 - Received request from 127.0.0.1:52634 - PUT:Nike:Sportswear
+2024-10-04 16:52:00.685 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-04 16:52:00.686 - Sent response to 127.0.0.1:52634 - PUT successful for key: Nike
+2024-10-04 16:52:00.686 - Received request from 127.0.0.1:52634 - PUT:Amazon:E-commerce
+2024-10-04 16:52:00.686 - PUT operation - Key: Amazon, Value: E-commerce
+2024-10-04 16:52:00.686 - ERROR: Received malformed request from client 127.0.0.1:52634
+2024-10-04 16:52:00.686 - Sent response to 127.0.0.1:52634 - Error: Malformed request from Client
+2024-10-04 16:52:00.687 - Received request from 127.0.0.1:52634 - PUT:Coca-Cola:Beverage
+2024-10-04 16:52:00.687 - PUT operation - Key: Coca-Cola, Value: Beverage
+2024-10-04 16:52:00.687 - ERROR: Received malformed request from client 127.0.0.1:52634
+2024-10-04 16:52:00.687 - Sent response to 127.0.0.1:52634 - Error: Malformed request from Client
+2024-10-04 16:52:00.688 - Received request from 127.0.0.1:52634 - PUT:Google:Search Engine
+2024-10-04 16:52:00.688 - PUT operation - Key: Google, Value: Search Engine
+2024-10-04 16:52:00.688 - ERROR: Received malformed request from client 127.0.0.1:52634
+2024-10-04 16:52:00.688 - Sent response to 127.0.0.1:52634 - Error: Malformed request from Client
+2024-10-04 16:52:00.688 - Received request from 127.0.0.1:52634 - PUT:Microsoft:Software
+2024-10-04 16:52:00.688 - PUT operation - Key: Microsoft, Value: Software
+2024-10-04 16:52:00.689 - Sent response to 127.0.0.1:52634 - PUT successful for key: Microsoft
+2024-10-04 16:52:00.689 - Received request from 127.0.0.1:52634 - PUT:BMW:Automobile
+2024-10-04 16:52:00.689 - PUT operation - Key: BMW, Value: Automobile
+2024-10-04 16:52:00.689 - Sent response to 127.0.0.1:52634 - PUT successful for key: BMW
+2024-10-04 16:52:00.689 - Received request from 127.0.0.1:52634 - PUT:Starbucks:Coffee
+2024-10-04 16:52:00.689 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-04 16:52:00.690 - Sent response to 127.0.0.1:52634 - PUT successful for key: Starbucks
+2024-10-04 16:52:00.690 - Received request from 127.0.0.1:52634 - PUT:Samsung:Electronics
+2024-10-04 16:52:00.690 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-04 16:52:00.690 - Sent response to 127.0.0.1:52634 - PUT successful for key: Samsung
+2024-10-04 16:52:00.690 - Received request from 127.0.0.1:52634 - GET:USA
+2024-10-04 16:52:00.691 - GET operation - Key: USA, Value: Washington DC
+2024-10-04 16:52:00.691 - Sent response to 127.0.0.1:52634 - GET successful: Washington DC
+2024-10-04 16:52:00.691 - Received request from 127.0.0.1:52634 - GET:France
+2024-10-04 16:52:00.691 - GET operation - Key: France, Value: Paris
+2024-10-04 16:52:00.691 - Sent response to 127.0.0.1:52634 - GET successful: Paris
+2024-10-04 16:52:00.692 - Received request from 127.0.0.1:52634 - GET:Germany
+2024-10-04 16:52:00.692 - GET operation - Key: Germany, Value: Berlin
+2024-10-04 16:52:00.692 - Sent response to 127.0.0.1:52634 - GET successful: Berlin
+2024-10-04 16:52:00.692 - Received request from 127.0.0.1:52634 - GET:Japan
+2024-10-04 16:52:00.692 - GET operation - Key: Japan, Value: Tokyo
+2024-10-04 16:52:00.693 - Sent response to 127.0.0.1:52634 - GET successful: Tokyo
+2024-10-04 16:52:00.693 - Received request from 127.0.0.1:52634 - GET:Canada
+2024-10-04 16:52:00.693 - GET operation - Key: Canada, Value: Ottawa
+2024-10-04 16:52:00.693 - Sent response to 127.0.0.1:52634 - GET successful: Ottawa
+2024-10-04 16:52:00.694 - Received request from 127.0.0.1:52634 - DELETE:USA
+2024-10-04 16:52:00.696 - ContainsKey operation - Key: USA exists in the store.
+2024-10-04 16:52:00.697 - DELETE operation - Key: USA removed
+2024-10-04 16:52:00.697 - Sent response to 127.0.0.1:52634 - DELETE successful for key: USA
+2024-10-04 16:52:00.698 - Received request from 127.0.0.1:52634 - DELETE:France
+2024-10-04 16:52:00.698 - ContainsKey operation - Key: France exists in the store.
+2024-10-04 16:52:00.698 - DELETE operation - Key: France removed
+2024-10-04 16:52:00.698 - Sent response to 127.0.0.1:52634 - DELETE successful for key: France
+2024-10-04 16:52:00.698 - Received request from 127.0.0.1:52634 - DELETE:Germany
+2024-10-04 16:52:00.698 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-04 16:52:00.699 - DELETE operation - Key: Germany removed
+2024-10-04 16:52:00.699 - Sent response to 127.0.0.1:52634 - DELETE successful for key: Germany
+2024-10-04 16:52:00.699 - Received request from 127.0.0.1:52634 - DELETE:Japan
+2024-10-04 16:52:00.699 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-04 16:52:00.699 - DELETE operation - Key: Japan removed
+2024-10-04 16:52:00.699 - Sent response to 127.0.0.1:52634 - DELETE successful for key: Japan
+2024-10-04 16:52:00.700 - Received request from 127.0.0.1:52634 - DELETE:Canada
+2024-10-04 16:52:00.700 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-04 16:52:00.700 - DELETE operation - Key: Canada removed
+2024-10-04 16:52:00.700 - Sent response to 127.0.0.1:52634 - DELETE successful for key: Canada
+2024-10-04 16:52:00.704 - TCP client disconnected from 127.0.0.1:52634
+2024-10-04 16:52:00.705 - TCP client connected from IP: 127.0.0.1, Port: 52635
+2024-10-04 16:52:00.705 - Client Connection Info: Remote IP: /127.0.0.1:52635, Local Port: 8080, Is Connected: true
+2024-10-04 16:52:26.461 - Received request from 127.0.0.1:52635 - PUT:sud:pot
+2024-10-04 16:52:26.461 - PUT operation - Key: sud, Value: pot
+2024-10-04 16:52:26.461 - Sent response to 127.0.0.1:52635 - PUT successful for key: sud
+2024-10-04 16:52:31.372 - TCP client disconnected from 127.0.0.1:52635
+2024-10-04 16:52:46.750 - Server started on port::8080::Server protocol::TCP
+2024-10-04 16:52:46.766 - TCP Server started on port 8080
+2024-10-04 16:52:46.766 - PUT operation - Key: apple, Value: A fruit that is sweet and crisp
+2024-10-04 16:52:46.767 - PUT operation - Key: book, Value: A collection of pages with text or illustrations
+2024-10-04 16:52:46.767 - PUT operation - Key: car, Value: A vehicle used for transportation
+2024-10-04 16:52:46.767 - PUT operation - Key: dog, Value: A domestic animal known for loyalty
+2024-10-04 16:52:46.767 - PUT operation - Key: elephant, Value: A large mammal with a trunk
+2024-10-04 16:52:46.767 - PUT operation - Key: forest, Value: A large area covered chiefly with trees and undergrowth
+2024-10-04 16:52:46.767 - PUT operation - Key: guitar, Value: A stringed musical instrument
+2024-10-04 16:52:46.767 - PUT operation - Key: house, Value: A building for human habitation
+2024-10-04 16:52:46.767 - PUT operation - Key: island, Value: A piece of land surrounded by water
+2024-10-04 16:52:46.768 - PUT operation - Key: jacket, Value: An outer garment extending to the waist or hips
+2024-10-04 16:52:48.796 - TCP client connected from IP: 127.0.0.1, Port: 52646
+2024-10-04 16:52:48.802 - Client Connection Info: Remote IP: /127.0.0.1:52646, Local Port: 8080, Is Connected: true
+2024-10-04 16:52:48.806 - Received request from 127.0.0.1:52646 - PUT:USA:Washington DC
+2024-10-04 16:52:48.806 - PUT operation - Key: USA, Value: Washington DC
+2024-10-04 16:52:48.807 - ERROR: Received malformed request from client 127.0.0.1:52646
+2024-10-04 16:52:48.808 - Sent response to 127.0.0.1:52646 - Error: Malformed request from Client
+2024-10-04 16:52:48.811 - Received request from 127.0.0.1:52646 - PUT:France:Paris
+2024-10-04 16:52:48.812 - PUT operation - Key: France, Value: Paris
+2024-10-04 16:52:48.812 - Sent response to 127.0.0.1:52646 - PUT successful for key: France
+2024-10-04 16:52:48.812 - Received request from 127.0.0.1:52646 - PUT:Germany:Berlin
+2024-10-04 16:52:48.812 - PUT operation - Key: Germany, Value: Berlin
+2024-10-04 16:52:48.812 - Sent response to 127.0.0.1:52646 - PUT successful for key: Germany
+2024-10-04 16:52:48.813 - Received request from 127.0.0.1:52646 - PUT:Japan:Tokyo
+2024-10-04 16:52:48.813 - PUT operation - Key: Japan, Value: Tokyo
+2024-10-04 16:52:48.813 - Sent response to 127.0.0.1:52646 - PUT successful for key: Japan
+2024-10-04 16:52:48.813 - Received request from 127.0.0.1:52646 - PUT:Canada:Ottawa
+2024-10-04 16:52:48.813 - PUT operation - Key: Canada, Value: Ottawa
+2024-10-04 16:52:48.813 - Sent response to 127.0.0.1:52646 - PUT successful for key: Canada
+2024-10-04 16:52:48.814 - Received request from 127.0.0.1:52646 - PUT:India:New Delhi
+2024-10-04 16:52:48.814 - PUT operation - Key: India, Value: New Delhi
+2024-10-04 16:52:48.814 - ERROR: Received malformed request from client 127.0.0.1:52646
+2024-10-04 16:52:48.814 - Sent response to 127.0.0.1:52646 - Error: Malformed request from Client
+2024-10-04 16:52:48.814 - Received request from 127.0.0.1:52646 - PUT:Brazil:Brasilia
+2024-10-04 16:52:48.814 - PUT operation - Key: Brazil, Value: Brasilia
+2024-10-04 16:52:48.815 - Sent response to 127.0.0.1:52646 - PUT successful for key: Brazil
+2024-10-04 16:52:48.815 - Received request from 127.0.0.1:52646 - PUT:Australia:Canberra
+2024-10-04 16:52:48.815 - PUT operation - Key: Australia, Value: Canberra
+2024-10-04 16:52:48.815 - Sent response to 127.0.0.1:52646 - PUT successful for key: Australia
+2024-10-04 16:52:48.815 - Received request from 127.0.0.1:52646 - PUT:Mexico:Mexico City
+2024-10-04 16:52:48.815 - PUT operation - Key: Mexico, Value: Mexico City
+2024-10-04 16:52:48.816 - ERROR: Received malformed request from client 127.0.0.1:52646
+2024-10-04 16:52:48.816 - Sent response to 127.0.0.1:52646 - Error: Malformed request from Client
+2024-10-04 16:52:48.816 - Received request from 127.0.0.1:52646 - PUT:Russia:Moscow
+2024-10-04 16:52:48.816 - PUT operation - Key: Russia, Value: Moscow
+2024-10-04 16:52:48.816 - Sent response to 127.0.0.1:52646 - PUT successful for key: Russia
+2024-10-04 16:52:48.817 - Received request from 127.0.0.1:52646 - PUT:Tesla:Electric Car
+2024-10-04 16:52:48.817 - PUT operation - Key: Tesla, Value: Electric Car
+2024-10-04 16:52:48.817 - ERROR: Received malformed request from client 127.0.0.1:52646
+2024-10-04 16:52:48.817 - Sent response to 127.0.0.1:52646 - Error: Malformed request from Client
+2024-10-04 16:52:48.817 - Received request from 127.0.0.1:52646 - PUT:Apple:Technology
+2024-10-04 16:52:48.818 - PUT operation - Key: Apple, Value: Technology
+2024-10-04 16:52:48.818 - Sent response to 127.0.0.1:52646 - PUT successful for key: Apple
+2024-10-04 16:52:48.818 - Received request from 127.0.0.1:52646 - PUT:Nike:Sportswear
+2024-10-04 16:52:48.818 - PUT operation - Key: Nike, Value: Sportswear
+2024-10-04 16:52:48.818 - Sent response to 127.0.0.1:52646 - PUT successful for key: Nike
+2024-10-04 16:52:48.819 - Received request from 127.0.0.1:52646 - PUT:Amazon:E-commerce
+2024-10-04 16:52:48.821 - PUT operation - Key: Amazon, Value: E-commerce
+2024-10-04 16:52:48.846 - ERROR: Received malformed request from client 127.0.0.1:52646
+2024-10-04 16:52:48.859 - Sent response to 127.0.0.1:52646 - Error: Malformed request from Client
+2024-10-04 16:52:48.859 - Received request from 127.0.0.1:52646 - PUT:Coca-Cola:Beverage
+2024-10-04 16:52:48.859 - PUT operation - Key: Coca-Cola, Value: Beverage
+2024-10-04 16:52:48.859 - ERROR: Received malformed request from client 127.0.0.1:52646
+2024-10-04 16:52:48.860 - Sent response to 127.0.0.1:52646 - Error: Malformed request from Client
+2024-10-04 16:52:48.860 - Received request from 127.0.0.1:52646 - PUT:Google:Search Engine
+2024-10-04 16:52:48.860 - PUT operation - Key: Google, Value: Search Engine
+2024-10-04 16:52:48.860 - ERROR: Received malformed request from client 127.0.0.1:52646
+2024-10-04 16:52:48.860 - Sent response to 127.0.0.1:52646 - Error: Malformed request from Client
+2024-10-04 16:52:48.861 - Received request from 127.0.0.1:52646 - PUT:Microsoft:Software
+2024-10-04 16:52:48.861 - PUT operation - Key: Microsoft, Value: Software
+2024-10-04 16:52:48.861 - Sent response to 127.0.0.1:52646 - PUT successful for key: Microsoft
+2024-10-04 16:52:48.861 - Received request from 127.0.0.1:52646 - PUT:BMW:Automobile
+2024-10-04 16:52:48.861 - PUT operation - Key: BMW, Value: Automobile
+2024-10-04 16:52:48.862 - Sent response to 127.0.0.1:52646 - PUT successful for key: BMW
+2024-10-04 16:52:48.862 - Received request from 127.0.0.1:52646 - PUT:Starbucks:Coffee
+2024-10-04 16:52:48.862 - PUT operation - Key: Starbucks, Value: Coffee
+2024-10-04 16:52:48.862 - Sent response to 127.0.0.1:52646 - PUT successful for key: Starbucks
+2024-10-04 16:52:48.863 - Received request from 127.0.0.1:52646 - PUT:Samsung:Electronics
+2024-10-04 16:52:48.863 - PUT operation - Key: Samsung, Value: Electronics
+2024-10-04 16:52:48.863 - Sent response to 127.0.0.1:52646 - PUT successful for key: Samsung
+2024-10-04 16:52:48.863 - Received request from 127.0.0.1:52646 - GET:USA
+2024-10-04 16:52:48.864 - GET operation - Key: USA, Value: Washington DC
+2024-10-04 16:52:48.864 - Sent response to 127.0.0.1:52646 - GET successful: Washington DC
+2024-10-04 16:52:48.868 - Received request from 127.0.0.1:52646 - GET:France
+2024-10-04 16:52:48.868 - GET operation - Key: France, Value: Paris
+2024-10-04 16:52:48.869 - Sent response to 127.0.0.1:52646 - GET successful: Paris
+2024-10-04 16:52:48.870 - Received request from 127.0.0.1:52646 - GET:Germany
+2024-10-04 16:52:48.870 - GET operation - Key: Germany, Value: Berlin
+2024-10-04 16:52:48.870 - Sent response to 127.0.0.1:52646 - GET successful: Berlin
+2024-10-04 16:52:48.871 - Received request from 127.0.0.1:52646 - GET:Japan
+2024-10-04 16:52:48.871 - GET operation - Key: Japan, Value: Tokyo
+2024-10-04 16:52:48.871 - Sent response to 127.0.0.1:52646 - GET successful: Tokyo
+2024-10-04 16:52:48.872 - Received request from 127.0.0.1:52646 - GET:Canada
+2024-10-04 16:52:48.872 - GET operation - Key: Canada, Value: Ottawa
+2024-10-04 16:52:48.872 - Sent response to 127.0.0.1:52646 - GET successful: Ottawa
+2024-10-04 16:52:48.874 - Received request from 127.0.0.1:52646 - DELETE:USA
+2024-10-04 16:52:48.877 - ContainsKey operation - Key: USA exists in the store.
+2024-10-04 16:52:48.878 - DELETE operation - Key: USA removed
+2024-10-04 16:52:48.878 - Sent response to 127.0.0.1:52646 - DELETE successful for key: USA
+2024-10-04 16:52:48.878 - Received request from 127.0.0.1:52646 - DELETE:France
+2024-10-04 16:52:48.879 - ContainsKey operation - Key: France exists in the store.
+2024-10-04 16:52:48.879 - DELETE operation - Key: France removed
+2024-10-04 16:52:48.879 - Sent response to 127.0.0.1:52646 - DELETE successful for key: France
+2024-10-04 16:52:48.879 - Received request from 127.0.0.1:52646 - DELETE:Germany
+2024-10-04 16:52:48.879 - ContainsKey operation - Key: Germany exists in the store.
+2024-10-04 16:52:48.879 - DELETE operation - Key: Germany removed
+2024-10-04 16:52:48.880 - Sent response to 127.0.0.1:52646 - DELETE successful for key: Germany
+2024-10-04 16:52:48.880 - Received request from 127.0.0.1:52646 - DELETE:Japan
+2024-10-04 16:52:48.880 - ContainsKey operation - Key: Japan exists in the store.
+2024-10-04 16:52:48.880 - DELETE operation - Key: Japan removed
+2024-10-04 16:52:48.880 - Sent response to 127.0.0.1:52646 - DELETE successful for key: Japan
+2024-10-04 16:52:48.880 - Received request from 127.0.0.1:52646 - DELETE:Canada
+2024-10-04 16:52:48.880 - ContainsKey operation - Key: Canada exists in the store.
+2024-10-04 16:52:48.880 - DELETE operation - Key: Canada removed
+2024-10-04 16:52:48.881 - Sent response to 127.0.0.1:52646 - DELETE successful for key: Canada
+2024-10-04 16:52:48.883 - TCP client disconnected from 127.0.0.1:52646
+2024-10-04 16:52:48.884 - TCP client connected from IP: 127.0.0.1, Port: 52647
+2024-10-04 16:52:48.884 - Client Connection Info: Remote IP: /127.0.0.1:52647, Local Port: 8080, Is Connected: true
+2024-10-04 16:53:09.264 - Received request from 127.0.0.1:52647 - PUT:game:pot
+2024-10-04 16:53:09.265 - PUT operation - Key: game, Value: pot
+2024-10-04 16:53:09.265 - Sent response to 127.0.0.1:52647 - PUT successful for key: game
+2024-10-04 16:53:13.125 - Received request from 127.0.0.1:52647 - GET:game
+2024-10-04 16:53:13.125 - GET operation - Key: game, Value: pot
+2024-10-04 16:53:13.125 - Sent response to 127.0.0.1:52647 - GET successful: pot
+2024-10-04 16:53:17.193 - TCP client disconnected from 127.0.0.1:52647

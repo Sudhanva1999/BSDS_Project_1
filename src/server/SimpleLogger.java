@@ -7,7 +7,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * SimpleLogger class for logging messages and errors to the console and log files.
+ * SimpleLogger class for logging messages and errors to the console and log
+ * files.
  * Logs are organized by date, creating a new log file for each day.
  */
 public class SimpleLogger {
@@ -15,7 +16,7 @@ public class SimpleLogger {
     private static final SimpleDateFormat fileDateFormat = new SimpleDateFormat("yyyy-MM-dd");
 
     private static final String logDirPath = "src/server/logs/";
-    
+
     private static FileWriter logFileWriter = null;
     private static String currentLogFileName = "";
 
@@ -62,7 +63,7 @@ public class SimpleLogger {
     private static void writeToFile(String message) {
         try {
             String logFileName = fileDateFormat.format(new Date()) + ".log";
-            
+
             if (!logFileName.equals(currentLogFileName)) {
                 switchLogFile(logFileName);
             }
@@ -78,7 +79,8 @@ public class SimpleLogger {
      * Switches to a new log file for the given file name.
      *
      * @param newLogFileName The name of the new log file to switch to.
-     * @throws IOException If an I/O error occurs while closing or opening the log file.
+     * @throws IOException If an I/O error occurs while closing or opening the log
+     *                     file.
      */
     private static void switchLogFile(String newLogFileName) throws IOException {
         if (logFileWriter != null) {
@@ -87,7 +89,7 @@ public class SimpleLogger {
 
         currentLogFileName = newLogFileName;
         File logFile = new File(logDirPath + currentLogFileName);
-        logFileWriter = new FileWriter(logFile, true); 
+        logFileWriter = new FileWriter(logFile, true);
     }
 
     /**

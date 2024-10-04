@@ -4,18 +4,24 @@ import java.io.*;
 import java.net.*;
 
 /**
- * The {@code TCPClientHelper} class handles communication between the client and a TCP server.
- * It attempts to establish a connection to the server, allows the user to send requests, and 
+ * The {@code TCPClientHelper} class handles communication between the client
+ * and a TCP server.
+ * It attempts to establish a connection to the server, allows the user to send
+ * requests, and
  * receives and validates server responses.
  * 
- * <p>It supports commands such as PUT, GET, and DELETE for interacting with a key-value store.</p>
+ * <p>
+ * It supports commands such as PUT, GET, and DELETE for interacting with a
+ * key-value store.
+ * </p>
  */
 public class TCPClientHelper extends ClientHelper {
 
-    private static final int MAX_RETRIES = 5;  
+    private static final int MAX_RETRIES = 5;
 
     /**
-     * Constructs a new {@code TCPClientHelper} with the specified port and hostname.
+     * Constructs a new {@code TCPClientHelper} with the specified port and
+     * hostname.
      *
      * @param port     The port number on which the server is listening.
      * @param hostname The hostname or IP address of the server.
@@ -25,8 +31,10 @@ public class TCPClientHelper extends ClientHelper {
     }
 
     /**
-     * Starts the TCP client, establishes a connection to the server, and handles user commands
-     * to interact with the key-value store. Retries are attempted up to {@code MAX_RETRIES} if 
+     * Starts the TCP client, establishes a connection to the server, and handles
+     * user commands
+     * to interact with the key-value store. Retries are attempted up to
+     * {@code MAX_RETRIES} if
      * the connection fails.
      */
     public void start() {
@@ -37,9 +45,9 @@ public class TCPClientHelper extends ClientHelper {
         boolean connected = false;
         while (retryCount < MAX_RETRIES && !connected) {
             try (Socket socket = new Socket(hostname, port);
-                 BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-                 PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
-                 BufferedReader console = new BufferedReader(new InputStreamReader(System.in))) {
+                    BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+                    PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
+                    BufferedReader console = new BufferedReader(new InputStreamReader(System.in))) {
 
                 socket.setSoTimeout(5000);
                 SimpleLogger.log("Connected to TCP server at " + hostname + ":" + port);
@@ -103,7 +111,8 @@ public class TCPClientHelper extends ClientHelper {
     }
 
     /**
-     * Displays the list of available commands for interacting with the key-value store.
+     * Displays the list of available commands for interacting with the key-value
+     * store.
      */
     private void displayMenu() {
         System.out.println("=== Key-Value Store TCP Client ===");
@@ -165,7 +174,7 @@ public class TCPClientHelper extends ClientHelper {
      * @return {@code true} if the response is valid, {@code false} otherwise.
      */
     private boolean isValidResponse(String response) {
-        if (response.startsWith("ERROR:") || response.startsWith("OK:") || response.startsWith("PUT") 
+        if (response.startsWith("ERROR:") || response.startsWith("OK:") || response.startsWith("PUT")
                 || response.startsWith("GET") || response.startsWith("DELETE")) {
             return true;
         }
